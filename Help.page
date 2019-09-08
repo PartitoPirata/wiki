@@ -1,65 +1,72 @@
 ---
 format: Markdown
+title: Guida
 ...
 
-# Navigating
+# Navigazione
 
-The most natural way of navigating is by clicking wiki links that
-connect one page with another. The "Front page" link in the navigation
-bar will always take you to the Front Page of the wiki. The "All pages"
-link will take you to a list of all pages on the wiki (organized into
-folders if directories are used). Alternatively, you can search using
-the search box. Note that the search is set to look for whole words, so
-if you are looking for "gremlins", type that and not "gremlin".
-The "go" box will take you directly to the page you type.
+Il modo più naturale di navigare le pagine è di cliccare i link che
+collegano le pagine l'una con l'altra. Il link "Prima Pagina" che si
+trova nella barra di navigazione laterale ti porterà sempre alla
+pagina iniziale della Wiki. Il link "Tutte le pagine" ti porterà alla
+lista di tutte le pagine della Wiki, organizzate in cartelle se sono
+presenti sottodirectory. In alternativa, puoi usare la funzione
+"Cerca". Nota che la funzione di ricerca agisce su parole intere, per
+cui se devi cercare "gremlins", inserisci questa parola, e non
+"gremlin". Se conosci il nome della pagina, puoi usare la funzione
+"Vai".
 
-# Creating and modifying pages
+# Creare e modificare pagine
 
-## Registering for an account
+## Registrazione di un account
 
-In order to modify pages, you'll need to be logged in.  To register
-for an account, just click the "register" button in the bar on top
-of the screen.  You'll be asked to choose a username and a password,
-which you can use to log in in the future by clicking the "login"
-button.  While you are logged in, these buttons are replaced by
-a "logout so-and-so" button, which you should click to log out
-when you are finished.
+Per poter modificare le pagine, dovrai loggarti nella Wiki. Per
+registrare il tuo account, clicca su "Non Autenticato" e segui il
+link presente nel testo "If you do not have an account, click here
+to get one."
+Dovrai scegliere un nome utente e una password, che potrai quindi
+usare per loggarti cliccando sul bottone "Login". Quando sarai
+loggato dentro, il bottone "Login" sarà sostituito da "Logout", che
+potrai utilizzare per effettuare il logout una volta terminata la
+tua sessione di lavoro.
 
-Note that logins are persistent through session cookies, so if you
-don't log out, you'll still be logged in when you return to the
-wiki from the same browser in the future.
+Nota che i login utilizzano i cookie di sessione, quindi se non
+esegui il logout sarai ancora loggato dentro quando tornerai alla
+Wiki dallo stesso browser.
 
-## Editing a page
+## Modificare una pagina
 
-To edit a page, just click the "edit" button at the bottom right corner
-of the page.
+Per modificare una pagina, clicca il bottone "Modifica" nell'angolo
+in alto a sinistra.
 
-You can click "Preview" at any time to see how your changes will look.
-Nothing is saved until you press "Save."
+Puoi cliccare su "Preview" in ogni momento per vedere come appaiono
+le tue modifiche. Nulla è salvato fino a quando non premi "Salva".
 
-Note that you must provide a description of your changes.  This is to
-make it easier for others to see how a wiki page has been changed.
+Nota che è necessario aggiungere una descrizione alle tue modifiche.
+Questo serve a rendere più semplice per gli altri vedere come la pagina
+è stata cambiata.
 
-## Page metadata
+## Metadati della pagina
 
-Pages may optionally begin with a metadata block.  Here is an example:
+Le pagine possono opzionalmente iniziare con un blocco di metadati. Per
+esempio:
 
     ---
     format: latex+lhs
-    categories: haskell math
+    categories: haskell matematica
     toc: no
-    title: Haskell and
-      Category Theory
+    title: Haskell e
+      Teoria delle Categorie
     ...
 
-    \section{Why Category Theory?}
+    \section{Introduzione}
 
-The metadata block consists of a list of key-value pairs, each on a
-separate line. If needed, the value can be continued on one or more
-additional line, which must begin with a space. (This is illustrated by
-the "title" example above.) The metadata block must begin with a line
-`---` and end with a line `...` optionally followed by one or more blank
-lines.
+Il blocco dei metadati consiste in una lista di coppie chiave-valore,
+ognuna su una linea separata. Se necessario, il valore può continuare
+sulla riga seguente, purché inizi con uno spazio. (Questo è illustrato
+dal valore di `title` qui sopra.) Il blocco dei metadati deve iniziare
+con una linea con `---` e terminare con una linea con `...`, seguita
+facoltativamente da una o più righe vuote.
 
 Currently the following keys are supported:
 
