@@ -21,7 +21,6 @@ Segue la lista di questi organi e incarichi in ordine alfabetico:
 <th>Nome</th>
 <th>Tipo</th>
 <th>Definizione</th>
-<th>Descrizione</th>
 <th>Prerogative</th>
 <th>Mandato</th>
 <th>Accreditamento</th>
@@ -33,7 +32,6 @@ Segue la lista di questi organi e incarichi in ordine alfabetico:
 <td>Assemblea</td>
 <td>Organo collegiale</td>
 <td>Statuto</td>
-<td>Titolo VI - Organizzazione → Sezione I - Assemblea</td>
 <td>Delibera delle mozioni, <i>altro</i></td>
 <td>Fino a scioglimento</td>
 <td>Certificazione</td>
@@ -43,7 +41,6 @@ Segue la lista di questi organi e incarichi in ordine alfabetico:
 <td>Burocrate</td>
 <td>Incarico individuale</td>
 <td>Statuto</td>
-<td>Titolo VI - Organizzazione → Sezione II - Burocrate</td>
 <td>Rappresentanza</td>
 <td>Biennale</td>
 <td>Elezione in Assemblea</td>
@@ -53,7 +50,6 @@ Segue la lista di questi organi e incarichi in ordine alfabetico:
 <td>Certificatore o Certificatrice</td>
 <td>Incarico individuale</td>
 <td>Regolamento</td>
-<td>Titolo V - Dei Certificatori</td>
 <td>Certificazione degli aspiranti Pirati</td>
 <td>Fino a rinuncia</td>
 <td>Elezione con policy speciale</td>
@@ -63,7 +59,6 @@ Segue la lista di questi organi e incarichi in ordine alfabetico:
 <td>Collaboratrici o collaboratori del Garante della Privacy</td>
 <td>Incarico individuale</td>
 <td>Regolamento</td>
-<td>Titolo II - Delle elezioni ordinarie → Sezione II - Elezione del Garante della Privacy → Art. 13. Elezione dei collaboratori del Garante della Privacy</td>
 <td>Gestione del Libro Soci</td>
 <td>Fino a termine mandato del Garante</td>
 <td>Nomina a cura del Garante della Privacy</td>
@@ -73,7 +68,6 @@ Segue la lista di questi organi e incarichi in ordine alfabetico:
 <td>Collegio Arbitrale</td>
 <td>Organo collegiale</td>
 <td>Statuto</td>
-<td>Titolo VII - Collegio Arbitrale</td>
 <td>Gestione delle controversie</td>
 <td>Annuale</td>
 <td>Elezione in Assemblea</td>
@@ -81,8 +75,7 @@ Segue la lista di questi organi e incarichi in ordine alfabetico:
 </tr>
 <tr>
 <td>Delegati o delegate internazionali</td>
-<td>Incarico&nbsp;</td>
-<td>Mozione specifica</td>
+<td>Incarico individuale</td>
 <td>Mozione specifica</td>
 <td>Rappresentanza nelle organizzazioni sovranazionali</td>
 <td>Definito dalla mozione</td>
@@ -93,7 +86,6 @@ Segue la lista di questi organi e incarichi in ordine alfabetico:
 <td>Garante della Privacy</td>
 <td>Incarico individuale</td>
 <td>Regolamento</td>
-<td>Titolo II - Delle elezioni ordinarie → Sezione II - Elezione del Garante della Privacy</td>
 <td>Gestione del Libro Soci</td>
 <td>Annuale</td>
 <td>Elezione in Assemblea</td>
@@ -103,7 +95,6 @@ Segue la lista di questi organi e incarichi in ordine alfabetico:
 <td>Gruppo di Integrità</td>
 <td>Organo collegiale</td>
 <td>Statuto</td>
-<td>Titolo VIII - Gruppo di Integrità</td>
 <td>Validazione delle mozioni</td>
 <td>Annuale</td>
 <td>Elezione in Assemblea</td>
@@ -113,8 +104,7 @@ Segue la lista di questi organi e incarichi in ordine alfabetico:
 <td>Gruppo di Coordinamento</td>
 <td>Organo collegiale</td>
 <td>Statuto</td>
-<td>Titolo IX - Gruppo di Coordinamento</td>
-<td>Verifica dell&amp;amp;#39;attuazione, coordinamento</td>
+<td>Verifica dell&#39;attuazione, coordinamento</td>
 <td>Annuale</td>
 <td>Elezione in Assemblea</td>
 <td>Da 4 a 7</td>
@@ -123,7 +113,6 @@ Segue la lista di questi organi e incarichi in ordine alfabetico:
 <td>Tesoriere o Tesoriera</td>
 <td>Incarico individuale</td>
 <td>Statuto</td>
-<td>Titolo VI - Organizzazione → Sezione III - Tesoriere</td>
 <td>Gestione della cassa</td>
 <td>Biennale</td>
 <td>Elezione in Assemblea</td>
@@ -141,7 +130,6 @@ Ai fini della presente Wiki, anche il **Pirata** o la **Piratessa** e i **Gruppi
 <th>Nome</th>
 <th>Tipo</th>
 <th>Definizione</th>
-<th>Descrizione</th>
 <th>Prerogative</th>
 <th>Accreditamento</th>
 <th>Numero membri</th>
@@ -152,7 +140,6 @@ Ai fini della presente Wiki, anche il **Pirata** o la **Piratessa** e i **Gruppi
 <td>Gruppi di lavoro</td>
 <td>Organo collegiale</td>
 <td>Statuto</td>
-<td>Titolo X - Gruppi di lavoro</td>
 <td>Attività di partito</td>
 <td>Comunicazione in Assemblea Permanente</td>
 <td>Da 3 a 7</td>
@@ -161,7 +148,6 @@ Ai fini della presente Wiki, anche il **Pirata** o la **Piratessa** e i **Gruppi
 <td>Pirata o Piratessa</td>
 <td>Incarico individuale</td>
 <td>Statuto</td>
-<td>Titolo III - Pirati</td>
 <td>Partecipazione in Assemblea</td>
 <td>Certificazione</td>
 <td>Illimitato</td>
@@ -176,7 +162,9 @@ Lo Statuto del partito stabilisce alcuni organi e incarichi per il corretto funz
 I Pirati e le Piratesse sono i membri del partito, ovvero i soci dell'associazione non riconosciuta Partito Pirata.
 
 ### Accreditamento
-La qualifica di Pirata si acquisisce dopo 90gg^[Si legga l'art. 5 dello Statuto, "Ammissione del Pirata".] dalla richiesta, previa certificazione^[La certificazione è il processo tramite cui un funzionario del partito, detto Certificatore, acquisice i dati dell'aspirante Pirata.] e pagamento della quota associativa. La qualifica di Pirata permette, tramite il regolare pagamento annuale della quota, di acquisire il diritto di voto in Assemblea; tuttavia è importante notare che per la maggior parte delle attività pratiche non è necessario avere tale qualifica, pertanto sia gli aspiranti Pirati che i simpatizzanti possono tranquillamente partecipare a molte parti della vita politica del partito e, in diversi casi, anche vedersi assegnati incarichi dal Partito stesso.
+La qualifica di Pirata si acquisisce dopo 90gg^[Si legga l'art. 5 dello Statuto, "Ammissione del Pirata".] dalla richiesta, previa certificazione^[La certificazione è il processo tramite cui un funzionario del partito, detto Certificatore, acquisice i dati dell'aspirante Pirata.] e pagamento della quota associativa.
+
+La qualifica di Pirata permette, tramite il regolare pagamento annuale della quota, di acquisire il diritto di voto in Assemblea; tuttavia è importante notare che per la maggior parte delle attività pratiche non è necessario avere tale qualifica, pertanto sia gli aspiranti Pirati che i simpatizzanti possono tranquillamente partecipare a molte parti della vita politica del partito e, in diversi casi, anche vedersi assegnati incarichi dal Partito stesso.
 
 ### Funzioni assegnate
 Il Pirata o la Piratessa partecipa a tutto il ciclo di vita politico del Partito. Può avanzare proposte sotto forma di mozioni nell'Assemblea, sia in seduta permanente che occasionale, candidare sé stesso/a o altre persone per gli incarichi di partito, creare nuovi gruppi di lavoro oppure partecipare a gruppi di lavoro esistenti.
@@ -187,7 +175,10 @@ Il Pirata o la Piratessa decade sper rinuncia, esclusione per gravi motivi, oppu
 In caso di morosità verso l'associazione, perde il diritto di partecipare all'Assemblea^[Art. 4 dello Statuto]. Tale diritto viene ripristinato con la ripresa del pagamento della quota. È materia di contesa se sia necessario pagare tutte le quote arretrate oppure la sola quota dell'anno corrente per la messa in regola del Pirata o della Piratessa.
 
 ## Assemblea
-L'Assemblea è l'organo sovrano del partito. Essa è composta da tutti le Piratesse e i Pirati e dirige la vita associativa. L'Assemblea è riunita in seduta permamente (Assemblea Permanente), ma deve riunirsi almeno una volta all'anno fisicamente (Assemblea Occasionale). Le tempistiche minime di discussione per l'Assemblea Permanente e di preavviso per la convocazione dell'Assemblea Occasionale sono definite dallo Statuto^[Per le tempistiche di discussione delle proposte, si veda l'Art. 13, per la convocazione l'Art. 14.], e corrispondono a queste:
+L'Assemblea è l'organo sovrano del partito. Essa è composta da tutti le Piratesse e i Pirati e dirige la vita associativa. L'Assemblea è riunita in seduta permamente (Assemblea Permanente), ma deve riunirsi almeno una volta all'anno fisicamente (Assemblea Occasionale).
+
+Le tempistiche minime di discussione per l'Assemblea Permanente e di preavviso per la convocazione dell'Assemblea Occasionale sono definite dallo Statuto^[Per le tempistiche di discussione delle proposte, si veda l'Art. 13, per la convocazione l'Art. 14.], e corrispondono a queste:
+
  * almeno 30gg per le mozioni ordinarie, incluse le modifiche al regolamento, e per la convocazione di un'Assemblea Occasionale con il potere di promulgare mozioni ordinarie o modifiche al regolamento;
  * almeno 90gg per le mozioni di modifica dello statuto o del regolamento, e per la convocazione di un'Assemblea Occasionale avente questi poteri.
 
@@ -195,7 +186,7 @@ L'Assemblea è l'organo sovrano del partito. Essa è composta da tutti le Pirate
 L'Assemblea è composta da Piratesse e Pirati in regola con la quota annuale.
 
 ### Funzioni assegnate
-L'Assemblea dirige la vita politica del Partito Pirata: elegge Burocrate, Tesoriere o Tesoriera, Collegio Arbitrale, Gruppo d'Integrità, Garante della Privacy; autorizza i Certificatori o le Certificatrici^[Le modalità di elezione sono descritte nel Titolo II del Regolamento.]. Approva le modifiche a statuto, manifesto o regolamento, approva mozioni politiche o esecutive, o delega Pirati o Piratesse per tale funzione^[Si veda l'Art. 11 dello Statuto], ed è competente per gli appelli contro le decisioni del Collegio Arbitrale^[Si veda l'Art. 20 dello Statuto].
+L'Assemblea dirige la vita politica del Partito Pirata: elegge Burocrate, Tesoriere o Tesoriera, Collegio Arbitrale, Gruppo d'Integrità, Garante della Privacy; autorizza i Certificatori o le Certificatrici^[Le modalità di elezione sono descritte nel Titolo II del Regolamento.]; approva le modifiche a statuto, manifesto o regolamento, approva mozioni politiche o esecutive, o delega Pirati o Piratesse per tale funzione^[Si veda l'Art. 11 dello Statuto], ed è competente per gli appelli contro le decisioni del Collegio Arbitrale^[Si veda l'Art. 20 dello Statuto].
 
 ### Cessazione
 L'Assemblea cessa le sue funzioni solo con lo scioglimento dell'associazione.
