@@ -43,18 +43,19 @@ Burocrate                           Incarico individuale    Rappresentanza      
 Certificatore/certificatrice        Incarico individuale    Amministrativa      Regolamento     Certificazione iscrivendi       Illimitato      Elezione in Assemblea   Illimitato
 Collaboratore/collaboratrice GdP    Incarico individuale    Amministrativa      Regolamento     Assistenza al GdP               (speciale)      Nominato dal GdP        Fino a 2
 Collegio Arbitrale                  Organo collegiale       Garanzia            Statuto         Gestione delle controversie     Annuale         Elezione in Assemblea   Almeno 3
-CTO                                 GdL permanente          Operativa           Regolamento     Gestione risorse IT             Annuale         Elezione in Assemblea   Fino a 7
 Delegate/delegati                   Incarico individuale    Rappresentanza      Mozione         Rappresentanza secondo mandato  (speciale)      Elezione in Assemblea   (speciale)
 Garante della Privacy (GdP)         Incarico individuale    Amministrativa      Regolamento     Gestione del Libro Soci         Annuale         Elezione in Assemblea   1
 Gruppi di lavoro (GdL)              (GdL)                   Operativa           Comunicazione   Attività di partito             (speciale)      Comunicazione in AP     Da 1 a 7
+Gruppo CTO                          GdL permanente          Operativa           Regolamento     Gestione risorse IT             Annuale         Elezione in Assemblea   Fino a 7
 Gruppo d'Integrità                  GdL permanente          Garanzia            Statuto         Validazione delle mozioni       Annuale         Elezione in Assemblea   Da 3 a 7
 Gruppo di Coordinamento             GdL permanente          Operativa           Statuto         Coordinamento GdL               Annuale         Elezione in Assemblea   Da 4 a 7
-_Pirata_                            _Incarico individuale_  _Politica_          _Statuto_       _Partecipazione in Assemblea_   _Illimitato_    _Certificazione         _Illimitato_
-Tesoriere/Tesoriera                 Incarico individuale    Operativa           Statuto         Gestione della cassa            Biennale        Elezione in Assemblea   1
+_Pirata_                            --                      _Politica_          _Statuto_       _Partecipazione in Assemblea_   _Illimitato_    _Certificazione_        _Illimitato_
+Responsabile della Convivenza       Incarico individuale    Garanzia            Statuto         Controllo dei conflitti         (speciale)      (speciale)              (speciale)
+Tesoriere/Tesoriera                 Incarico individuale    Amministrativa      Statuto         Gestione della cassa            Biennale        Elezione in Assemblea   1
 
-# Organi e incarichi adibiti a funzione politica
+# Funzione politica
 
-In un partito con una forte vocazione assembleare come il nostro, di fatto l'Assemblea e i suoi membri assolvono a diverse funzioni. Per ragioni di categorizzazione pertanto, è stata definito questo insieme come _funzione politica_.
+In un partito con una forte vocazione assembleare come il nostro, di fatto l'Assemblea e i suoi membri assolvono diverse funzioni. Per ragioni di categorizzazione pertanto, è stata definito questo insieme come _funzione politica_.
 
 ## Pirate e Pirati
 Le Pirate e i Pirati sono i membri del partito, ovvero le socie e i soci dell'associazione non riconosciuta Partito Pirata. Il o la Pirata partecipa a tutto il ciclo di vita politico del Partito. Ha diritto ad accedere alla "sede" dell'Assemblea Permanente, l'[Agorà](https://agora.partito-pirata.it), e a partecipare con diritto di voto alle Assemblee Occasionali. Può proporre nuove mozioni, votare mozioni esistenti, proporre e votare variazioni a Statuto, Manifesto e Regolamento, proporre ricorso avverso alle decisioni degli organi di garanzia, votare gli appelli avversi alle decisioni del Collegio Arbitrale, proporre la formazione di nuovi GdL e partecipare a GdL esistenti.^[Si veda la sezione III dello Statuto]
@@ -84,7 +85,7 @@ L'Assemblea è composta da Piratesse e Pirati in regola con la quota annuale.
 ### Cessazione
 L'Assemblea cessa le sue funzioni solo con lo scioglimento dell'associazione.
 
-# Organi e incarichi adibiti a funzione operativa
+# Funzione operativa
 
 Gli organi, i gruppi di lavoro e gli incarichi con _funzione operativa_ sono quelli che agiscono in Rete e sul territorio per supportare il partito e/o per portarne avanti le attività.
 
@@ -115,3 +116,5 @@ I GdL sono ad accesso libero, e sono operativi previa comunicazione in area _Org
 ### Cessazione
 Il GdL cessa la propria attività tramite una comunicazione in AP, come per la sua costituzione. Per prassi, i GdL che rimangono senza membri sono considerati estinti, pertanto in caso ci siano Pirati e Pirate che vogliano _riesumare_ un GdL, essi ed esse devono darne nuova comunicazione in AP.
 
+## Gruppo CTO
+Il gruppo CTO è il gruppo di lavoro che si occupa di gestire le risorse IT dell'Associazione.
