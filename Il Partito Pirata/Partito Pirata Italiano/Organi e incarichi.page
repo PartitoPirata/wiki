@@ -19,8 +19,8 @@ Nome            Tipo                    Funzione        Definizione     Prerogat
 ----            ----                    --------        -----------     -----------                     -------     --------------          -------------
 Assemblea       Organo collegiale       Indirizzo       Statuto         Delibera delle mozioni          Illimitato  Certificazione          Illimitato
 Burocrate       Incarico individuale    Rappresentanza  Statuto         Rappresentanza legale           Biennale    Elezione in Assemblea   1
-Certificatore   Incarico individuale    Certificazione  Regolamento     Certificazione iscrivendi       Illimitato  Elezione in Assemblea^[La policy di elezione per Certificatori prevede una maggioranza qualificata, vista la delicatezza del compito]  Illimitato
-Certificatrice  Incarico individuale    Certificazione  Regolamento     Certificazione iscrivendi       Illimitato  Elezione in Assemblea^[La policy di elezione per Certificatrici prevede una maggioranza qualificata, vista la delicatezza del compito]  Illimitato
+Certificatore
+Certificatrice  Incarico individuale    Certificazione  Regolamento     Certificazione iscrivendi       Illimitato  Elezione in Assemblea   Illimitato
 
 
 
