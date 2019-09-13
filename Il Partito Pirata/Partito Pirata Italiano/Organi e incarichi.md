@@ -93,6 +93,8 @@ Gli organi, i gruppi di lavoro e gli incarichi con _funzione operativa_ sono que
 ## Gruppo di coordinamento
 Il gruppo di coordinamento è un gruppo di lavoro permanente previsto dallo Statuto. La sua funzione è di coordinare i gruppi di lavoro e assicurarsi che le delibere dell'Assemblea vengano portate avanti. Secondo quanto riportato nello statuto: _"Il Gruppo di Coordinamento ha il compito di supervisionare, coordinare, affiancare, aiutare e favorire il lavoro di tutti i Gruppi di Lavoro esistenti, anche proponendo agli stessi le priorità di intervento. Ha il dovere di verificare e monitorare costantemente l’attuazione di tutte le delibere assembleari e l’obbligo di segnalare all’Assemblea tutte le criticità in merito all’attuazione, anche in fase di discussione. In particolare, lavorerà sempre a fianco dei Gruppi che si occupano dell’infrastruttura tecnologica e della comunicazione dell’Associazione."_^[Art. 22 dello Statuto]
 
+I membri del GC non possono essere anche membri del Gruppo d'Integrità.
+
 ### Numero dei membri
 Il GC deve avere un minimo di 4 membri. Essendo un GdL, non può avere più di 7 membri.
 
@@ -118,4 +120,39 @@ I GdL sono ad accesso libero, e sono operativi previa comunicazione in area _Org
 Il GdL cessa la propria attività tramite una comunicazione in AP, come per la sua costituzione. Per prassi, i GdL che rimangono senza membri sono considerati estinti, pertanto in caso ci siano Pirati e Pirate che vogliano _riesumare_ un GdL, essi ed esse devono darne nuova comunicazione in AP.
 
 ## Gruppo CTO
-Il gruppo CTO è il gruppo di lavoro che si occupa di gestire le risorse IT dell'Associazione.
+Il gruppo CTO è il gruppo di lavoro che si occupa di gestire le risorse IT dell'Associazione. Vista la delicatezza del compito, questo gruppo viene eletto annualmente in AP.^[Art. 57 del Regolamento]
+
+#### Configuratori dell'Assemblea Permanente
+La gestione dell'istanza di Liquid Feedback che costituisce l'Assemblea Permanente è attualmente affidata al gruppo CTO. In passato, tuttavia, venivano delegati a questo scopo dall'Assemblea due membri specifici del CTO, chiamati _configuratori_. È probabile che, con l'aumento del numero di iscritti, tale prassi venga nuovamente messa in atto.
+
+### Numero dei membri
+Essendo un GdL, il numero massimo dei membri è fissato a 7.
+
+### Accreditamento
+Il CTO viene eletto in Assemblea Permanente, in area _Organizzazione e Priorità_, tramite policy _Elezioni in Assemblea_.
+
+### Cessazione
+Il CTO ha mandato annuale, al termine del quale deve essere rinnovato.
+
+# Funzione di garanzia
+
+Gli organi con _funzione di garanzia_ sono quelli che provvedono a dirimere le controversie.
+
+## Collegio Arbitrale
+
+Il Collegio Arbitrale ha lo scopo di favorire la pacifica convivenza tra Pirati/e. Poiché il suo ruolo ha rilievo legale, lo Statuto^[Si veda l'art. 20] prevede la possibilità per persone non iscritte di far parte di esso, purché il numero minimo di Pirati o Pirate sia _la metà meno uno_ dei membri. I poteri del Collegio Arbitrale sono i seguenti:
+
+ * può sanzionare Pirati e Pirate per comportamenti lesivi verso le persone o l'associazione^[Art. 20 dello Statuto];
+ * può annullare le decisioni del Gruppo d'Integrità^[Art. 21 dello Statuto];
+ * può annullare le decisioni dei Responsabili della Convivenza^[Art. 24 dello Statuto];
+
+Le sanzioni comminate possono essere:
+ * **ammonizione**: il o la Pirata viene ammonito o ammonita a non reiterare il comportamento lesivo
+ * **sospensione**: il o la Pirata viene temporaneamente escluso dall'Assemblea Permanente
+ * **esclusione**: il o la Pirata viene escluso o esclusa in modo permanente dall'Assemblea Permanente
+
+L'appello avverso alle decisioni del Collegio va presentato in Assemblea Permanente in area _Arbitrato_, tramite la policy _Mozione Ordinaria_.
+
+I membri del CA non possono essere anche membri del Gruppo d'Integrità.
+
+
