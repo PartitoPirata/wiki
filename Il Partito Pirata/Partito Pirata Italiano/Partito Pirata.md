@@ -6,7 +6,7 @@ categories: pp-it
 ...
 
 # Come si diventa Pirata
-Per iscriversi al Partito Pirata Italiano occorre prima di tutto prendere visione dello [Statuto](http://www.partito-pirata.it/statuto/), il [Manifesto](http://www.partito-pirata.it/manifesto/) e il [Regolamento](http://www.partito-pirata.it/regolamento/), verificare la propria aderenza ai principî ivi esposti, e compilare la [form di iscrizione](https://iscrizione.partito-pirata.it).
+Per iscriversi al Partito Pirata Italiano occorre prima di tutto prendere visione dello [Statuto](http://www.partito-pirata.it/partito/statuto/), il [Manifesto](http://www.partito-pirata.it/manifesto/) e il [Regolamento](http://www.partito-pirata.it/partito/regolamento/), verificare la propria aderenza ai principî ivi esposti, e compilare la [form di iscrizione](https://iscrizione.partito-pirata.it).
 
 ![Form di iscrizione](shot-iscrivimi.png)
 
