@@ -1,5 +1,5 @@
 ---
-format: Markdown
+format: markdown
 title: Wiki del Partito Pirata
 toc: no
 ...
