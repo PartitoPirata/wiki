@@ -56,6 +56,3 @@ Se il gruppo che stai cercando manca, puoi crearlo tu.
 
 Siccome vogliamo trovare tutti i gruppi cercando **<tt>pp</tt>** su Telegram, sei invitati a usare **<tt>pp</tt>** come primi due caratteri di ogni gruppo dedicato al Partito Pirata. (del nome, non dello username ;))
 
-# Tolda dei Pirati
-
-La Tolda dei Pirati è un gruppo di discussione semiufficiale e semioperativo, per tutti e nessun luogo in particolare: [ppTolda dei Pirati](https://t.me/toldadeipirati).
