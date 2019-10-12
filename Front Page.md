@@ -18,6 +18,9 @@ Puoi incontrarci in diversi gruppi [Telegram](), o seguirci su alcune pagine o g
 # Scuola di Partito
 Puoi accedere agli articoli della [Scuola di Partito](Scuola di Partito/Scuola di Partito)
 
+# Gazzetta Pirata
+Puoi vedere le proposte approvate nelle aree "Mozioni politiche" e "Organizzazione e priorità" approvate in Liquid Feedback [Scuola di Partito](Scuola di Partito/Scuola di Partito)
+
 ------
 
 [Gitit User’s Guide]().
