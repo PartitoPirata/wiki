@@ -14,6 +14,3 @@ Votando favorevolmente a quest’iniziativa l’assemblea dà ampia fiducia a Tr
 L’assemblea incentiva altresì Tresa a costituire un nucleo autonomo di partecipazione attiva agli eventi del forum che rendano visibile l’adesione del Partito all’iniziativa.
 
 In pratica la proposta è che, oltre a fare la negoziazione, il delegato possa vincolare il partito senza altro voto di ratifica successivo in quanto l'assemblea le sta dando piena fiducia. Questo significa rendere efficace l'idea che chiunque possa essere realmente un dirigente del partito. Il delegato può essere sempre sfiduciato con una successiva mozione se non saprà interpretare bene il sentire comune.
-
-# Area Organizzazione e priorità
-Qui vengono inserite le mozioni politiche dell'area approvate in Liquid Feedback con la data di approvazione ed i relativi voti, purché attive.
