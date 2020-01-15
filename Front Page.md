@@ -19,7 +19,7 @@ Puoi incontrarci in diversi gruppi [Telegram](), o seguirci su alcune pagine o g
 Puoi accedere agli articoli della [Scuola di Partito](Scuola di Partito/Scuola di Partito)
 
 # Gazzetta Pirata
-Puoi vedere le proposte approvate nelle aree "Mozioni politiche" e "Organizzazione e priorità" approvate in Liquid Feedback [Gazzetta Pirata](Gazzetta Pirata/Gazzetta Pirata)
+Puoi vedere le proposte approvate nelle aree "Mozioni politiche" approvate in Liquid Feedback [Gazzetta Pirata](Gazzetta Pirata/Gazzetta Pirata)
 
 ------
 
