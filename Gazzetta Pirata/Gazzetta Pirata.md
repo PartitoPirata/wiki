@@ -1,7 +1,7 @@
 ---
 format: Markdown
 title: Gazzetta Pirata
-categories: pp-it gazzetta-pirata
+categories: gazzetta-pirata
 ...
 
 Di seguito verranno riportare le mozioni politiche votate ed approvate dall'Assemblea Permanente, con la data di chiusura e le percentuali della votazione.
