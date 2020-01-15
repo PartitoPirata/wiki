@@ -6,6 +6,8 @@ categories: gazzetta-pirata
 
 Di seguito verranno riportare le mozioni politiche votate ed approvate dall'Assemblea Permanente, ordinate per la data di chiusura della votazione.
 
+#####2019
+
 * 2019-11-25 - [i6753: Modalità di impegno del Partito Pirata contro la riforma costituzionale che riduce il numero dei parlamentari](/Gazzetta%20Pirata/i6753)
 * 2019-09-09 - [i6696: Maggior delega a Tresa](/Gazzetta%20Pirata/i6696)
 * 2019-08-23 - [i6649: Proposta di Legge per il contrasto alla discriminazione delle persone con disabilità](/Gazzetta%20Pirata/i6649)
