@@ -16,3 +16,4 @@ Di seguito verranno riportare le mozioni politiche votate ed approvate dall'Asse
 * 2019-03-27 - [i6553: Pirati contro il ritorno al Medioevo](/Gazzetta%20Pirata/i6553)
 * 2019-02-22 - [i6537: Eliminazione del contante, GNU/Taler](/Gazzetta%20Pirata/i6537)
 * 2019-02-20 - [i6558: il PP è solidale con Radio Radicale](/Gazzetta%20Pirata/i6558)
+* 2019-02-05 - [i6517: Approvazione CEEP19](/Gazzetta%20Pirata/i6517)
