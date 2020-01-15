@@ -1,16 +1,18 @@
 ---
 format: Markdown
 title: Gazzetta Pirata
+categories: pp-it gazzetta-pirata
 ...
 
-# Area Mozioni politiche 
-Qui vengono inserite le mozioni politiche dell'area approvate in Liquid Feedback con la data di approvazione ed i relativi voti, purché attive.
+Di seguito verranno riportare le mozioni politiche votate ed approvate dall'Assemblea Permanente, con la data di chiusura e le percentuali della votazione.
 
-**i6696: Maggior delega a Tresa (Exedre/Storno)**  
-**25 SI / 3 AS / 0 NO    9 / 9 / 2019**
-
-
-Votando favorevolmente a quest’iniziativa l’assemblea dà ampia fiducia a Tresa, quale referente del partito, per compiere tutte le azioni necessarie e conseguenti all’adesione al Forum Indivisibili, con piena autonomia decisionale e operativa anche per la redazione di un documento rappresentativo del Partito, nel solco del programma CEEP, da leggere alla prossima assemblea, cercando di promuovere la maggior condivisione possibile con altri pirati interessati a contribuire. L’assemblea impegna Tresa a relazionare sul Forum del Partito Pirata sull’andamento dei lavori del Forum ed a cercare attivamente occasioni di condivisione e confronto del lavoro compiuto con l’intera comunità pirata.
-L’assemblea incentiva altresì Tresa a costituire un nucleo autonomo di partecipazione attiva agli eventi del forum che rendano visibile l’adesione del Partito all’iniziativa.
-
-In pratica la proposta è che, oltre a fare la negoziazione, il delegato possa vincolare il partito senza altro voto di ratifica successivo in quanto l'assemblea le sta dando piena fiducia. Questo significa rendere efficace l'idea che chiunque possa essere realmente un dirigente del partito. Il delegato può essere sempre sfiduciato con una successiva mozione se non saprà interpretare bene il sentire comune.
+* 2019-11-25 - [i6753: Modalità di impegno del Partito Pirata contro la riforma costituzionale che riduce il numero dei parlamentari](/Gazzetta%20Pirata/i6753)
+* 2019-09-09 - [i6696: Maggior delega a Tresa](/Gazzetta%20Pirata/i6696)
+* 2019-08-23 - [i6649: Proposta di Legge per il contrasto alla discriminazione delle persone con disabilità](/Gazzetta%20Pirata/i6649)
+* 2019-07-20 - [i6640: Legalizzazione del file sharing](/Gazzetta%20Pirata/i6640)
+* 2019-07-06 - [i6633: Abrogazione in toto delle mozioni politiche pre CEEP19](/Gazzetta%20Pirata/i6633)
+* 2019-07-06 - [i6646: Sostenere Marco Calamari come Garante Privacy (della Repubblica Italiana)](/Gazzetta%20Pirata/i6646)
+* 2019-06-14 - [i6636: Gdl anti-discriminazione](/Gazzetta%20Pirata/i6636)
+* 2019-03-27 - [i6553: Pirati contro il ritorno al Medioevo](/Gazzetta%20Pirata/i6553)
+* 2019-02-22 - [i6537: Eliminazione del contante, GNU/Taler](/Gazzetta%20Pirata/i6537)
+* 2019-02-20 - [i6558: il PP è solidale con Radio Radicale](/Gazzetta%20Pirata/i6558)
