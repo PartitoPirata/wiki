@@ -6,6 +6,11 @@ categories: gazzetta-pirata
 
 Di seguito verranno riportare le mozioni politiche votate ed approvate dall'Assemblea Permanente, ordinate per la data di chiusura della votazione.
 
+#####2020
+
+* 2020-02-02 - [i6802: aderire alla campagna savedotorg](/Gazzetta%20Pirata/i6802)
+* 2020-01-22 - [i6807: MEP 5stelle nel gruppo Greens/EFA: not in our name](/Gazzetta%20Pirata/i6807)
+
 #####2019
 
 * 2019-11-25 - [i6753: Modalità di impegno del Partito Pirata contro la riforma costituzionale che riduce il numero dei parlamentari](/Gazzetta%20Pirata/i6753)
