@@ -8,6 +8,7 @@ Di seguito verranno riportare le mozioni politiche votate ed approvate dall'Asse
 
 #####2020
 
+* 2020-02-15 - [i6812: Partecipazione alla lista Base Costituzionale e stesura del programma per partecipazione Regionali Liguria](/Gazzetta%20Pirata/i6812)
 * 2020-02-02 - [i6802: aderire alla campagna savedotorg](/Gazzetta%20Pirata/i6802)
 * 2020-01-22 - [i6807: MEP 5stelle nel gruppo Greens/EFA: not in our name](/Gazzetta%20Pirata/i6807)
 
