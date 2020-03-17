@@ -57,7 +57,7 @@ Le richieste di intervento devono essere veicolate all'[indirizzo mail della seg
 In seguito attraverso uno strumento di messaggistica, come una chat, la segreteria dialogherà con i relatori.  
 In base alle richieste e in accordo con la presidenza, verrà modificata o integrata la scaletta dell'assemblea per permettere gli interventi.  
 Un iscritto al Partito ha a disposizione al massimo 10 minuti di intervento; un non iscritto ha a disposizione un solo intervento da massimo 5 minuti.  
-La presidenza fissa il termine delle iscrizioni a parlare e lo comunica all'assemblea, con almeno un’ora di preavviso; può inoltremodificare i tempi di intervento in relazione all’elenco degli iscritti a parlare; ha la facoltà di dare la parola agli invitati ed alle personalità presenti, inserendole in scaletta a suo insindacabile giudizio.  
+La presidenza fissa il termine delle iscrizioni a parlare e lo comunica all'assemblea, con almeno un’ora di preavviso; può inoltre modificare i tempi di intervento in relazione all’elenco degli iscritti a parlare; ha la facoltà di dare la parola agli invitati ed alle personalità presenti, inserendole in scaletta a suo insindacabile giudizio.  
 E' sempre e comunque possibile partecipare al dibattito pubblico utilizzando la chat del canale YouTube ufficiale del Partito Pirata.  
 
 <a name="A.5"></a>**Come ci si registra come partecipante al Congresso?**  
@@ -87,7 +87,7 @@ Nel caso in cui siano presenti più mozioni, verrà dato del tempo ai promotori 
 In caso contrario andranno al voto le mozioni in modo contrapposto.  
 
 <a name="A.11"></a>**Quali sono i requisiti per un emendamento?**  
-Un emendamento deve essere presentato da un singolo congressista (non sono ammessi autori multipli) con un'iniziativa di tipo "Congresso Nazionale - Emendamento"indicando nel titolo "Emendamento a Mozione Generale/Particolare #<n> - «descrizione»". Ciascun congressista può presentare più di una proposta, anche complessiva, di emendamento a ciascuna mozione.  
+Un emendamento deve essere presentato da un singolo congressista (non sono ammessi autori multipli) con un'iniziativa di tipo "Congresso Nazionale - Emendamento" indicando nel titolo "Emendamento a Mozione Generale/Particolare #<n> - «descrizione»". Ciascun congressista può presentare più di una proposta, anche complessiva, di emendamento a ciascuna mozione.  
 Per poter essere sottoposta poi a votazione dalla segreteria, l'emendamento deve essere votato entro 1 ora da non meno del numero di partecipanti al Congresso corrispondente al 20% e da non più dello stesso numero maggiorato di *??*.  
 Ogni congressista può sostenere in questo modo più emendamenti, anche per la stessa mozione.  
 
@@ -150,4 +150,3 @@ Nota: su jitsi lo streaming deve partire in una stanza senza password; si può a
 <a name="D.3"></a>**Quali strumenti sono messi a disposizione per l'assemblea?**  
 Il gruppo CTO mette a disposizione un'istanza jitsi, un'istanza del servizio di streaming/registrazione (su richiesta), il servizio cryptopad per l'editing di testi, una casella email per la segreteria.  
 Come servizio di messaggistica conviene valutare una soluzione utilizzabile facilmente da tutti i partecipanti: si può utilizzare Telegram, usato nelle chat informali del partito, o un altro servizio a scelta, come ad esempio Mattermost offerto dal Partito Pirata Europeo.  
-
