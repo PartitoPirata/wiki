@@ -1,3 +1,9 @@
+---
+format: Markdown
+title: Assemblea Pre-Congressuale del 17 marzo 2020
+categories: regolamento-assemblea
+...
+
 È convocata una assemblea pre-congressuale per il giorno Martedì 17 Marzo alle ore 21.30: «verso il Congresso del Partito per la Conoscenza»
 
 L'Assemblea pre-congressuale non ha valore deliberativo ma è fondamentale per permetterci di affinare, dal punto di vista tecnologico-organizzativo e da quello politico, il dibattito in vista del 1° Congresso Nazionale del Partito Pirata in programma da Venerdì 17 a Domenica 19 Aprile.
