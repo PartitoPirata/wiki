@@ -24,7 +24,7 @@ L'assemblea viene trasmessa pubblicamente in streaming attraverso il [canale uff
 Le richieste di intervento devono essere veicolate all'[indirizzo mail della segreteria](mailto:congresso@partito-pirata.it), che è il punto di contatto tra il pubblico e il tavolo della presidenza, indicando il proprio indirizzo del servizio di messaggistica utilizzato.  
 In seguito attraverso uno strumento di messaggistica, come una chat, la segreteria dialogherà con i relatori.  
 In base alle richieste e in accordo con la presidenza, verrà modificata o integrata la scaletta dell'assemblea per permettere gli interventi.  
-Un iscritto al Partito ha a disposizione al massimo 10 minuti di intervento; un non iscritto ha a disposizione un solo intervento da massimo 5 minuti.
+Un iscritto al Partito ha a disposizione al massimo 10 minuti di intervento; un non iscritto ha a disposizione un solo intervento da massimo 5 minuti.  
 La presidenza fissa il termine delle iscrizioni a parlare e lo comunica all'assemblea, con almeno un’ora di preavviso; può inoltre modificare i tempi di intervento in relazione all’elenco degli iscritti a parlare; ha la facoltà di dare la parola agli invitati ed alle personalità presenti, inserendole in scaletta a suo insindacabile giudizio.  
 E' sempre e comunque possibile partecipare al dibattito pubblico utilizzando la chat del canale YouTube ufficiale del Partito Pirata.  
 
@@ -34,15 +34,18 @@ E' sempre e comunque possibile partecipare al dibattito pubblico utilizzando la 
 
 1.1 La Presidenza dell'Assemblea è composta dal convocatore o da persone delegate dal convocatore.
 
-1.2  I componenti della Presidenza possono intervenire in ogni fase del dibattito al di fuori dell’elenco delle iscrizioni a parlare, per dieci minuti, dopo il termine del secondo intervento successivo al momento in cui la richiesta è stata avanzata al Presidente di turno.
+1.2  I componenti della Presidenza possono intervenire in ogni fase del dibattito al di fuori dell’elenco delle iscrizioni a parlare, per dieci minuti, dopo il termine del secondo intervento successivo al momento in cui la richiesta è stata avanzata al Presidente di turno.  
 
-1.3  Gli interventi nel dibattito generale hanno la durata massima di dieci minuti per gli iscritti al Partito e di cinque minuti per i non iscritti. I non iscritti possono intervenire una sola volta. La Presidenza fissa il termine delle iscrizioni a parlare e lo comunica all'Assemblea, con almeno un’ora di preavviso. La Presidenza ha la facoltà di modificare i tempi di intervento in relazione all’elenco degli iscritti a parlare. 
+1.3  Gli interventi nel dibattito generale hanno la durata massima di dieci minuti per gli iscritti al Partito e di cinque minuti per i non iscritti. I non iscritti possono intervenire una sola volta.  
+La Presidenza fissa il termine delle iscrizioni a parlare e lo comunica all'Assemblea, con almeno un’ora di preavviso.  
+La Presidenza ha la facoltà di modificare i tempi di intervento in relazione all’elenco degli iscritti a parlare.  
 
 1.4 La Presidenza ha la facoltà di dare la parola agli invitati ed alle personalità presenti.
 
 **Art. 2 – Iscrizioni a parlare.**
 
-2.1 Le iscrizioni a parlare devono essere presentate attraverso email personale alla Segreteria di Presidenza in cui viene indicato un indirizzo telegram a cui venire contattati per la preparazione dell'intervento. La Presidenza forma l’elenco generale degli iscritti a parlare seguendo l'ordine di richiesta.
+2.1 Le iscrizioni a parlare devono essere presentate attraverso email personale alla Segreteria di Presidenza in cui viene indicato un indirizzo telegram a cui venire contattati per la preparazione dell'intervento.  
+La Presidenza forma l’elenco generale degli iscritti a parlare seguendo l'ordine di richiesta.
 
 **Art. 3 - Prassi per gli interventi**
 
