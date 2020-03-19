@@ -1,4 +1,10 @@
-È convocata una assemblea pre-congressuale per il giorno Martedì 20 Marzo alle ore 21.30: «verso il Congresso del Partito per la Conoscenza»
+---
+format: Markdown
+title: Assemblea Pre-Congressuale del 20 marzo 2020
+categories: regolamento-assemblea
+...
+
+È convocata una assemblea pre-congressuale per il giorno Venerdì 20 Marzo alle ore 21.30: «verso il Congresso del Partito per la Conoscenza»
 
 L'Assemblea pre-congressuale non ha valore deliberativo ma è fondamentale per permetterci di affinare, dal punto di vista tecnologico-organizzativo e da quello politico, il dibattito in vista del 1° Congresso Nazionale del Partito Pirata in programma da Venerdì 17 a Domenica 19 Aprile.
 
@@ -22,7 +28,7 @@ Un iscritto al Partito ha a disposizione al massimo 10 minuti di intervento; un 
 La presidenza fissa il termine delle iscrizioni a parlare e lo comunica all'assemblea, con almeno un’ora di preavviso; può inoltre modificare i tempi di intervento in relazione all’elenco degli iscritti a parlare; ha la facoltà di dare la parola agli invitati ed alle personalità presenti, inserendole in scaletta a suo insindacabile giudizio.  
 E' sempre e comunque possibile partecipare al dibattito pubblico utilizzando la chat del canale YouTube ufficiale del Partito Pirata.  
 
-## Regolamento dell'Assemblea Pre-Congressuale di Martedì 17 marzo 2020
+## Regolamento dell'Assemblea Pre-Congressuale di Venerdì 20 marzo 2020
 
 **Art. 1 – Composizione della Presidenza e modalità di intervento.**
 
