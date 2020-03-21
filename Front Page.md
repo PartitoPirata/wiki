@@ -15,8 +15,8 @@ Esiste in questa wiki una sezione dedicata interamente al [Partito Pirata in Ita
 # Comunità
 Puoi incontrarci in diversi gruppi [Telegram](), o seguirci su alcune pagine o gruppi [Facebook](). 
 
-# Scuola di Partito
-Puoi accedere agli articoli della [Scuola di Partito](Scuola di Partito/Scuola di Partito)
+# Assemblee Online
+Attività online del [Partito in Assemblea](Assemblee pirata online)
 
 # Gazzetta Pirata
 Puoi vedere le proposte approvate nelle aree "Mozioni politiche" approvate in Liquid Feedback [Gazzetta Pirata](Gazzetta Pirata)
