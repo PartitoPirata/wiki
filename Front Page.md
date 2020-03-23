@@ -16,7 +16,7 @@ Esiste in questa wiki una sezione dedicata interamente al [Partito Pirata in Ita
 Puoi incontrarci in diversi gruppi [Telegram](), o seguirci su alcune pagine o gruppi [Facebook](). 
 
 # Assemblee Online
-Attività online del [Partito in Assemblea](Assemblee pirata online)
+Attività online del [Partito in Assemblea](Assemblee Pirata)
 
 # Gazzetta Pirata
 Puoi vedere le proposte approvate nelle aree "Mozioni politiche" approvate in Liquid Feedback [Gazzetta Pirata](Gazzetta Pirata)
