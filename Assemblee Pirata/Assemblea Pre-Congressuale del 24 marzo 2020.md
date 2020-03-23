@@ -57,4 +57,4 @@ Per intervenire è necessario adottare la prassi comunicata all'intervenuto dall
 
 ## Faq 
 
-Per ogni informazione è possibile fare riferimento alla [FAQ (in progress) relativa al Congresso Nazionale](https://wiki.partito-pirata.it/Congresso%20Nazionale/domande%20frequenti)  
+Per ogni informazione è possibile fare riferimento alla [FAQ (in progress) relativa al Congresso Nazionale](/Congresso Nazionale/domande frequenti)  
