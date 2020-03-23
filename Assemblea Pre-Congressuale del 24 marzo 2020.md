@@ -1,7 +1,7 @@
 ---
 format: Markdown
 title: Assemblea Pre-Congressuale del 24 marzo 2020
-categories: congresso-nazionale assemblee-precongressuali
+categories: assemblee-precongressuali
 ...
 
 È convocata una assemblea pre-congressuale per il giorno Martedì 24 Marzo alle ore 21.30: «verso il Congresso del Partito per la Conoscenza»
@@ -12,13 +12,13 @@ L'Assemblea pre-congressuale non ha valore deliberativo ma è fondamentale per p
 
 - segui il dibattito su Youtube: da comunicare
 - email per le iscrizioni a parlare: congresso@partito-pirata.it
-- canale Telegram per le informaizoni di presidenza: [http://t.me/ppCongresso](http://t.me/ppCongresso)
+- canale Telegram per le informazioni di presidenza: [http://t.me/ppCongresso](http://t.me/ppCongresso)
 
 ## Organi dell'assemblea
 
 La presidenza dell'incontro è affidata a Emmanuele Somma (exedre)
 
-La segreteria sarà costituita da Edoardo Ferri (g5).
+La segreteria sarà costituita da Edoardo Ferri (g5)
 
 In regia Luca Nucifora (nuciluc)
 
