@@ -1,7 +1,7 @@
 ---
 format: Markdown
 title: Assemblea Pre-Congressuale del 20 marzo 2020
-categories: regolamento-assemblea
+categories: assemblee-precongressuali
 ...
 
 È convocata una assemblea pre-congressuale per il giorno Venerdì 20 Marzo alle ore 21.30: «verso il Congresso del Partito per la Conoscenza»
