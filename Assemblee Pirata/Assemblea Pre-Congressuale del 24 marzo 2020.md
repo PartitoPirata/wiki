@@ -27,7 +27,7 @@ In regia Luca Nucifora (nuciluc)
 L'assemblea viene trasmessa pubblicamente in streaming attraverso il [canale ufficiale YouTube del Partito Pirata](https://www.youtube.com/channel/UC4q_uEZYzG2gLtZNHZ92mpA), dove rimarrà poi archiviata a disposizione anche al di fuori dell'evento in diretta. La regia provvederà in seguito ad indicare i link ai singoli interventi nella descrizione del video registrato.  
 
 **Come posso interagire o per chiedere la parola?**  
-Le richieste di intervento devono essere veicolate all'[indirizzo mail della segreteria](mailto:congresso@partito-pirata.it), che è il punto di contatto tra il pubblico e il tavolo della presidenza, indicando il proprio indirizzo del servizio di messaggistica utilizzato.  
+Le richieste di intervento devono essere veicolate all'[indirizzo mail della segreteria](mailto:congresso@partito-pirata.it) (anche usando [questo modello](mailto:congresso@partito-pirata.it?subject=Richiesta%20iscrizione%20a%20parlare%20-%20Nome%20Cognome&body=Iscrizione%20a%20parlare per%0aNome:%20%0aCognome:%20%0aContatto%20Telegram:%0aIscritto%20al%20Partito%20Pirata:%20Sì%20(soprannome)/No), che è il punto di contatto tra il pubblico e il tavolo della presidenza, indicando il proprio indirizzo del servizio di messaggistica utilizzato.  
 In seguito attraverso uno strumento di messaggistica, come una chat, la segreteria dialogherà con i relatori.  
 In base alle richieste e in accordo con la presidenza, verrà modificata o integrata la scaletta dell'assemblea per permettere gli interventi.  
 Un iscritto al Partito ha a disposizione al massimo 10 minuti di intervento; un non iscritto ha a disposizione un solo intervento da massimo 5 minuti.  
