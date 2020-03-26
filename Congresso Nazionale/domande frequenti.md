@@ -77,7 +77,7 @@ Una mozione generale è quella che definisce l'azione politica del partito per l
 Essa deve essere presentata da un singolo congressista (non sono ammessi autori multipli) con un'iniziativa di tipo "Congresso Nazionale - Mozione Generale - Presentazione". Per poter essere sottoposta poi a votazione dalla segreteria, la mozione deve essere votata entro 12 ore da non meno del numero dei partecipanti al Congresso corrispondente al 40% e da non più dello stesso numero maggiorato di *??*.  
 Ogni congressista può sostenere in questo modo solo una mozione generale; in caso contrario i voti saranno considerati nulli.  
 
-<a name="A.9"></a>**Quali sono i requisiti per una mozione particolare**  
+<a name="A.9"></a>**Quali sono i requisiti per una mozione particolare?**  
 Una mozione particolare deve essere presentata da un singolo congressista (non sono ammessi autori multipli) con un'iniziativa di tipo "Congresso Nazionale - Mozione Particolare - Presentazione". Per poter essere sottoposta poi a votazione dalla segreteria, la mozione deve essere votata entro 12 ore da non meno del numero dei partecipanti al Congresso corrispondente al 20% e da non più dello stesso numero maggiorato di 3.  
 Ogni congressista può sostenere in questo modo più mozioni particolari.  
 
