@@ -76,11 +76,11 @@ La Presidenza, all’inizio della fase conclusiva dei lavori, procede alla lettu
 
 Terminato il dibattito sulle mozioni generali, si procede all’esame degli emendamenti relativi. Qualora gli emendamenti alle mozioni non siano accolti dai presentatori dei documenti cui sono rivolti (l’accettazione deve essere espressa dal presentatore), la Presidenza dà la parola per l’illustrazione al presentatore dell’emendamento per due minuti. Su ciascuno emendamento la Presidenza ammette una dichiarazione di voto favorevole ed una contraria, della durata di due minuti ciascuna.
 
-** Art. 7 - Esecuzione delle votazioni sugli Emendamenti **
+**Art. 7 - Esecuzione delle votazioni sugli Emendamenti**
 
 Alla fine del dibattito sugli emendamenti la segreteria mette in LQFB gli emendamenti non accettati dai presentatori delle mozioni con una iniziativa con policy “Votazione”. Al termine delle votazioni la Presidenza dichiara l’esito del voto sugli emendamenti.
 
-** Art. 8 - Esecuzione della votazione sulle Mozioni **
+**Art. 8 - Esecuzione della votazione sulle Mozioni**
 
 Terminate le votazioni sugli emendamenti, la Presidenza procede alla discussione sulla votazione delle mozioni generali, dando la parola per le dichiarazioni di voto per una durata di cinque minuti ciascuna e ad un numero limitato di iscritti per le dichiarazioni a favore, contro e per l’astensione. Durata e numero delle dichiarazioni di voto sono stabiliti, per ciascuna votazione, dalla Presidenza.
 
