@@ -1,6 +1,7 @@
 È convocata una assemblea pre-congressuale per il giorno Martedì 31 Marzo alle ore 21.30: «verso il Congresso del Partito per la Conoscenza»
 
-L'Assemblea pre-congressuale non ha valore deliberativo ma è fondamentale per permetterci di affinare, e dal punto di vista tecnologico-organizzativo e da quello politico, il dibattito in vista del 1° Congresso Nazionale del Partito Pirata in programma da Venerdì 17 a Domenica 19 Aprile.
+Questa Assemblea pre-congressuale ha valore deliberativo per permetterci di verficare, dal punto di vista tecnologico-organizzativo, le modalità di voto in vista del 1° Congresso Nazionale del Partito Pirata in programma da Venerdì 17 a Domenica 19 Aprile.
+
 
 ## Per partecipare
 
