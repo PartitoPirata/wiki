@@ -127,6 +127,7 @@ Segue la chat sul video Youtube in streaming. Gestisce le operazioni di voto.
 La regia tecnica organizza le stanze, verifica che i relatori non abbiano problemi audio-video, impostano la password della stanza principale e la comunicano alla segreteria di volta in volta.  
 Si consiglia di impostare le stanze per avere audio e video disattivati all'accesso.  
 Ha poteri di moderazione nelle stanze, ma solo a fini tecnici.  
+Al termine della riunione ricompone la scaletta degli interventi da inserire nella descrizione del video Youtube ed estrae l'audio dal video stesso, scaricato da Youtube Studio.  
 
 #####Strumenti  
 
