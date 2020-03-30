@@ -1,0 +1,1 @@
+[spostato](Assemblee Pirata/Assemblea Pre-Congressuale del 31 marzo 2020)
