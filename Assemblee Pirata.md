@@ -11,4 +11,4 @@ Assemblee online del [17 Marzo 2020](Assemblee Pirata/Assemblea Pre-Congressuale
 
 # Regolamenti e prassi assembleari
 - [Proposta regolamento deliberativo Assemblea online](Assemblee Pirata/Proposta regolamento deliberativo)
-- [Come presentare mozioni e emendamenti](Come presentare mozioni e emendamenti)
+- [Come presentare mozioni e emendamenti](Assemblee Pirata/Come presentare mozioni e emendamenti)
