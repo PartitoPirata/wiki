@@ -13,7 +13,7 @@ Questa Assemblea pre-congressuale ha valore deliberativo per permetterci di verf
 
 La presidenza dell'incontro è affidata a Emmanuele Somma (exedre)
 
-La segreteria sarà costituita da Edoardo Ferri (g5)
+La segreteria sarà costituita da Edoardo Ferri (g5) e Eleonora Serrati (Zafferanory)
 
 In regia Luca Nucifora (nuciluc)
 
@@ -55,7 +55,7 @@ Per intervenire è necessario adottare la prassi comunicata all'intervenuto dall
 
 Le mozioni generali, sono presentate da singoli congressisti (non sono ammessi autori multipli) con policy “Presentazioni mozioni al Congresso”.  Il tempo limite entro cui le mozioni possono essere poste in piattaforma per poter essere votate sono le ore 21 del giorno precedente l'assemblea (ore 21:00 del 30 marzo 2020). Dal momento in cui la mozione viene posta in LQFB si avranno 5 minuti per eventuali modifiche, dopodiché passerà direttamente in votazione. 
 
-Per essere ammesse alla discussione congressuale devono essere VOTATE su LQFB da non meno di 7 e da non più di 10 congressisti. Ciascun congressista può sottoscrivere **una singola** mozione generale. 
+Per essere ammesse alla discussione congressuale devono essere VOTATE su LQFB da non meno di 5 congressisti. Ciascun congressista può sottoscrivere **una singola** mozione generale. 
 
 Al momento previsto nell’ordine dei lavori la Segreteria verifica le condizioni di ammissione della mozione: numero minimo e massimo di sottoscrittori e sostegno univoco alle singole mozione ESCLUDENDO dal computo coloro che hanno sostenuto più di una mozione generale (si considera voto nullo su ambedue le mozioni votate).
 
@@ -67,7 +67,7 @@ Ciascuna mozione ammessa al voto può essere illustrata dal primo firmatario (pr
 
 Gli emendamenti sono presentati da singoli congressisti (non sono ammessi autori multipli) con policy “Presentazioni di Emendamenti”, indicando nel titolo “Emendamento a Mozione Generale #iXXXX - «descrizione»”. Ciascun congressista può presentare più di una proposta, anche complessiva, di emendamento a ciascuna mozione.
 
-Devono essere sottoscritte su liquid da non meno del X=5 e da non più di 7 congressisti. Ciascun congressista può sottoscrivere più emendamenti per ogni mozione.
+Devono essere sottoscritte su liquid da non meno di 5 congressisti. Ciascun congressista può sottoscrivere più emendamenti per ogni mozione.
 
 Il Presidente dichiarerà il termine della presentazione degli emendamenti con almeno 15 minuti di anticipo.
 
