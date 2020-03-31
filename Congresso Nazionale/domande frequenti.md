@@ -81,11 +81,11 @@ Una mozione particolare deve essere presentata da un singolo congressista (non s
 
 <a name="A.10"></a>**Cosa succede ad una mozione generale oppure ad una mozione particolare che rispetta i requisiti?**  
 La mozione che rispetta i requisiti verrà letta dalla Presidenza, all’inizio della fase conclusiva dei lavori (vedi ["Cosa succede nella fase di dibattito?"](#A.13)).  
-Nel caso in cui siano presenti più mozioni, verrà dato del tempo ai promotori per provare a fare una sintesi e a cercare adeguato supporto (vedi ["Quali sono i requisiti per una mozione generale?"](#A.8) oppure ["Quali sono i requisiti per una mozione particolare?"](#A.9)). In quel caso i promotori inseriranno la sintesi con un'iniziativa di tipo "Presentazione emendamento" indicando nel titolo "Mozione Unificata delle Mozioni #<n> e #<n>: «descrizione»".  
+Nel caso in cui siano presenti più mozioni, verrà dato del tempo ai promotori per provare a fare una sintesi e a cercare adeguato supporto (vedi ["Quali sono i requisiti per una mozione generale?"](#A.8) oppure ["Quali sono i requisiti per una mozione particolare?"](#A.9)). In quel caso i promotori inseriranno la sintesi con un'iniziativa di tipo "Presentazione emendamento" indicando nel titolo "Mozione Unificata delle Mozioni #NUM e #NUM: «descrizione»".  
 In caso contrario andranno al voto le mozioni in modo contrapposto.  
 
 <a name="A.11"></a>**Quali sono i requisiti per un emendamento?**  
-Un emendamento deve essere presentato da un singolo congressista (non sono ammessi autori multipli) entro l'orario definito dalla moderazione con un'iniziativa di tipo "Presentazione emendamento" indicando nel titolo "Emendamento a Mozione Generale/Particolare #<n> - «descrizione»". Ciascun congressista può presentare più di una proposta, anche complessiva, di emendamento a ciascuna mozione.  
+Un emendamento deve essere presentato da un singolo congressista (non sono ammessi autori multipli) entro l'orario definito dalla Presidenza con un'iniziativa di tipo "Presentazione emendamento" indicando nel titolo "Emendamento a Mozione Generale/Particolare #NUM - «descrizione»". Ciascun congressista può presentare più di una proposta, anche complessiva, di emendamento a ciascuna mozione.  
 Per poter essere sottoposta poi a votazione dalla segreteria, l'emendamento deve essere votato entro 1 ora da non meno di 5 partecipanti al Congresso.  
 Ogni congressista può sostenere in questo modo più emendamenti, anche per la stessa mozione.  
 
