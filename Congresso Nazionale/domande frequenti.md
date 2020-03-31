@@ -69,26 +69,24 @@ La segreteria tiene constantemente sotto controllo il numero dei partecipanti al
 Il numero che farà fede per il calcolo del quorum verrà preso prima dell'inizio della fase di dibattito.  
 
 <a name="A.7"></a>**Come posso presentare una mozione al Congresso?**  
-In agorà sarà presente un'area apposita dove poter inserire una mozione attraverso due policy:  
-"Congresso Nazionale - Mozione Generale - Presentazione" oppure "Congresso Nazionale - Mozione Particolare - Presentazione".  
+In agorà sarà presente un'area apposita dove poter inserire una mozione attraverso la policy "Presentazione mozione" presente nell'apposita sezione "Congresso Nazionale".  
 
 <a name="A.8"></a>**Quali sono i requisiti per una mozione generale?**  
-Una mozione generale è quella che definisce l'azione politica del partito per l'intero anno e impegna gli iscritti, che intendono partecipare,ad uniformare la propriaazione politica in coerenza. 
-Essa deve essere presentata da un singolo congressista (non sono ammessi autori multipli) con un'iniziativa di tipo "Congresso Nazionale - Mozione Generale - Presentazione". Per poter essere sottoposta poi a votazione dalla segreteria, la mozione deve essere votata entro 12 ore da non meno del numero dei partecipanti al Congresso corrispondente al 40% e da non più dello stesso numero maggiorato di *??*.  
+Una mozione generale è quella che definisce l'azione politica del partito per l'intero anno e impegna gli iscritti, che intendono partecipare, ad uniformare la propria azione politica in coerenza.  
+Essa deve essere presentata da un singolo congressista (non sono ammessi autori multipli) entro le ore 21 del giorno precedente a quello dedicato alla fase di votazione con un'iniziativa di tipo "Presentazione mozione". Per poter essere sottoposta poi a votazione dalla segreteria, la mozione deve essere votata entro 12 ore da non meno di 7 dei partecipanti al Congresso.  
 Ogni congressista può sostenere in questo modo solo una mozione generale; in caso contrario i voti saranno considerati nulli.  
 
 <a name="A.9"></a>**Quali sono i requisiti per una mozione particolare?**  
-Una mozione particolare deve essere presentata da un singolo congressista (non sono ammessi autori multipli) con un'iniziativa di tipo "Congresso Nazionale - Mozione Particolare - Presentazione". Per poter essere sottoposta poi a votazione dalla segreteria, la mozione deve essere votata entro 12 ore da non meno del numero dei partecipanti al Congresso corrispondente al 20% e da non più dello stesso numero maggiorato di 3.  
-Ogni congressista può sostenere in questo modo più mozioni particolari.  
+Una mozione particolare deve essere presentata da un singolo congressista (non sono ammessi autori multipli) entro le ore 21 del giorno precedente a quello dedicato alla fase di votazione con un'iniziativa di tipo "Presentazione mozione". Per poter essere sottoposta poi a votazione dalla segreteria, la mozione deve essere votata entro 12 ore da non meno di 7 partecipanti al Congresso.  Ogni congressista può sostenere in questo modo più mozioni particolari.  
 
 <a name="A.10"></a>**Cosa succede ad una mozione generale oppure ad una mozione particolare che rispetta i requisiti?**  
 La mozione che rispetta i requisiti verrà letta dalla Presidenza, all’inizio della fase conclusiva dei lavori (vedi ["Cosa succede nella fase di dibattito?"](#A.13)).  
-Nel caso in cui siano presenti più mozioni, verrà dato del tempo ai promotori per provare a fare una sintesi e a cercare adeguato supporto (vedi ["Quali sono i requisiti per una mozione generale?"](#A.8) oppure ["Quali sono i requisiti per una mozione particolare?"](#A.9)). 
+Nel caso in cui siano presenti più mozioni, verrà dato del tempo ai promotori per provare a fare una sintesi e a cercare adeguato supporto (vedi ["Quali sono i requisiti per una mozione generale?"](#A.8) oppure ["Quali sono i requisiti per una mozione particolare?"](#A.9)). In quel caso i promotori inseriranno la sintesi con un'iniziativa di tipo "Presentazione emendamento" indicando nel titolo "Mozione Unificata delle Mozioni #<n> e #<n>: «descrizione»".  
 In caso contrario andranno al voto le mozioni in modo contrapposto.  
 
 <a name="A.11"></a>**Quali sono i requisiti per un emendamento?**  
-Un emendamento deve essere presentato da un singolo congressista (non sono ammessi autori multipli) con un'iniziativa di tipo "Congresso Nazionale - Emendamento" indicando nel titolo "Emendamento a Mozione Generale/Particolare #<n> - «descrizione»". Ciascun congressista può presentare più di una proposta, anche complessiva, di emendamento a ciascuna mozione.  
-Per poter essere sottoposta poi a votazione dalla segreteria, l'emendamento deve essere votato entro 1 ora da non meno del numero di partecipanti al Congresso corrispondente al 20% e da non più dello stesso numero maggiorato di *??*.  
+Un emendamento deve essere presentato da un singolo congressista (non sono ammessi autori multipli) entro l'orario definito dalla moderazione con un'iniziativa di tipo "Presentazione emendamento" indicando nel titolo "Emendamento a Mozione Generale/Particolare #<n> - «descrizione»". Ciascun congressista può presentare più di una proposta, anche complessiva, di emendamento a ciascuna mozione.  
+Per poter essere sottoposta poi a votazione dalla segreteria, l'emendamento deve essere votato entro 1 ora da non meno di 5 partecipanti al Congresso.  
 Ogni congressista può sostenere in questo modo più emendamenti, anche per la stessa mozione.  
 
 <a name="A.12"></a>**Cosa succede ad un emendamento che rispetta i requisiti?**  
@@ -101,10 +99,10 @@ Qualora gli emendamenti alle mozioni non siano accolti dai presentatori dei docu
 Su ciascun emendamento la Presidenza ammette una dichiarazione di voto favorevole ed una contraria, della durata di 2 minuti ciascuna.  
 
 <a name="A.14"></a>**Cosa succede nella fase di votazione?**  
-Alla fine del dibattito sugli emendamenti la segreteria inserisce in agorà gli emendamenti non accettati dai presentatori delle mozioni con una iniziativa con policy "Congresso Nazionale - Emendamento - Votazione". Al termine delle votazioni la Presidenza dichiara l'esito del voto sugli emendamenti.  
+Alla fine del dibattito sugli emendamenti la segreteria inserisce in agorà gli emendamenti non accettati dai presentatori delle mozioni con una iniziativa con policy "Voto mozione o emendamento". Al termine delle votazioni la Presidenza dichiara l'esito del voto sugli emendamenti.  
 Terminate le votazioni sugli emendamenti, la Presidenza procede alla discussione sulla votazione delle mozioni generali, quindi alle mozioni particolari, dando la parola per le dichiarazioni di voto per una durata di 5 minuti ciascuna e ad un numero limitato di iscritti per le dichiarazioni a favore, contro e per l’astensione.  
 Durata e numero delle dichiarazioni di voto sono stabiliti, per ciascuna votazione, dalla Presidenza.  
-Alla fine della fase di dibattito la segreteria inserisce in agorà tutte le mozioni con policy "Congresso Nazionale - Mozione Generale - Votazione" e "Congresso Nazionale - Mozione Particolare - Votazione" dando modo ai congressisti di votare per ciascuna in un tempo limitato.  
+Alla fine della fase di dibattito la segreteria inserisce in agorà tutte le mozioni con policy "Voto mozione o emendamento" dando modo ai congressisti di votare per ciascuna in un tempo limitato.  
 Al termine delle votazioni la Presidenza dichiara l'esito del voto.  
 
 #####Ruoli  
