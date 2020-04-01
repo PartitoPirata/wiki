@@ -4,7 +4,7 @@ Questa Assemblea pre-congressuale ha valore deliberativo per permetterci di verf
 
 La presidenza dell'incontro è affidata a Emmanuele Somma (exedre)
 
-La segreteria sarà costituita da Edoardo Ferri (g5).
+La segreteria sarà costituita da Edoardo Ferri (g5), ELeonora Serrati (zafferanoy).
 
 In regia Luca Nucifora (nuciluc)
 
