@@ -1,6 +1,12 @@
+---
+format: Markdown
+title: Assemblea Pre-Congressuale del 31 marzo 2020
+categories: assemblee-pirata assemblee-precongressuali
+...
+
 È convocata una assemblea pre-congressuale per il giorno Martedì 31 Marzo alle ore 21.30: «verso il Congresso del Partito per la Conoscenza»
 
-Questa Assemblea pre-congressuale ha valore deliberativo per permetterci di verficare, dal punto di vista tecnologico-organizzativo, le modalità di voto in vista del 1° Congresso Nazionale del Partito Pirata in programma da Venerdì 17 a Domenica 19 Aprile.
+Questa Assemblea pre-congressuale ha valore deliberativo per permetterci di verificare, dal punto di vista tecnologico-organizzativo, le modalità di voto in vista del 1° Congresso Nazionale del Partito Pirata in programma da Venerdì 17 a Domenica 19 Aprile.
 
 
 ## Per partecipare
@@ -53,7 +59,7 @@ Per intervenire è necessario adottare la prassi comunicata all'intervenuto dall
 
 **Art. 4 - Presentazione delle mozioni generali**
 
-Le mozioni generali, sono presentate da singoli congressisti (non sono ammessi autori multipli) con policy “Presentazioni mozioni al Congresso”.  Il tempo limite entro cui le mozioni possono essere poste in piattaforma per poter essere votate sono le ore 21 del giorno precedente l'assemblea (ore 21:00 del 30 marzo 2020). Dal momento in cui la mozione viene posta in LQFB si avranno 5 minuti per eventuali modifiche, dopodiché passerà direttamente in votazione. 
+Le mozioni generali, sono presentate da singoli congressisti (non sono ammessi autori multipli) con policy “Presentazioni mozioni al Congresso”.  Il tempo limite entro cui le mozioni possono essere poste in piattaforma per poter essere votate sono le ore 23 del giorno precedente l'assemblea (ore 23:00 del 30 marzo 2020). Dal momento in cui la mozione viene posta in LQFB si avranno 5 minuti per eventuali modifiche, dopodiché passerà direttamente in votazione. 
 
 Per essere ammesse alla discussione congressuale devono essere VOTATE su LQFB da non meno di 5 congressisti. Ciascun congressista può sottoscrivere **una singola** mozione generale. 
 
