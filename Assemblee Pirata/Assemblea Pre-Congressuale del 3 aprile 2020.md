@@ -1,10 +1,16 @@
+---
+format: Markdown
+title: Assemblea Pre-Congressuale del 3 aprile 2020
+categories: assemblee-pirata assemblee-precongressuali
+...
+
 È convocata una assemblea pre-congressuale per il giorno Venerdì 3 Aprile alle ore 21.30
 
-Questa Assemblea pre-congressuale ha valore deliberativo per permetterci di verficare, dal punto di vista tecnologico-organizzativo, le modalità di voto in vista del 1° Congresso Nazionale del Partito Pirata in programma da Venerdì 17 a Domenica 19 Aprile.
+Questa Assemblea pre-congressuale ha valore deliberativo per permetterci di verificare, dal punto di vista tecnologico-organizzativo, le modalità di voto in vista del 1° Congresso Nazionale del Partito Pirata in programma da Venerdì 17 a Domenica 19 Aprile.
 
 La presidenza dell'incontro è affidata a Emmanuele Somma (exedre)
 
-La segreteria sarà costituita da Edoardo Ferri (g5), ELeonora Serrati (zafferanoy).
+La segreteria sarà costituita da Edoardo Ferri (g5), Eleonora Serrati (zafferanory).
 
 In regia Luca Nucifora (nuciluc)
 
@@ -15,14 +21,14 @@ Art. 1 – Composizione della Presidenza e modalità di intervento.
 
 1.2 I componenti della Presidenza possono intervenire in ogni fase del dibattito al di fuori dell’elenco delle iscrizioni a parlare, per dieci minuti, dopo il termine del secondo intervento successivo al momento in cui la richiesta è stata avanzata al Presidente di turno.
 
-1.3 Gli interventi nel dibattito generale hanno la durata massima di dieci minuti per gli iscritti al Partito e di cinque minuti per i non iscritti. I non iscritti possono intervenire una sola volta. La Presidenza fissa il termine delle iscrizioni a parlare e lo comunica all'Assemblea, con almeno un’ora di preavviso. La Presidenza ha la facoltà di modificare i tempi di intervento in relazione all’elenco degli iscritti a parlare.
+1.3 Gli interventi nel dibattito generale hanno la durata massima di dieci minuti per gli iscritti al Partito e di cinque minuti per i non iscritti. I non iscritti possono intervenire una sola volta. La Presidenza fissa il termine delle iscrizioni a parlare e lo comunica all'Assemblea, con almeno un’ora di preavviso. La Presidenza ha la facoltà di modificare i tempi di intervento in relazione all'elenco degli iscritti a parlare.
 
 1.4 La Presidenza ha la facoltà di dare la parola agli invitati ed alle personalità presenti.
 
 Art. 2 – Emendamenti alle proposte di ordine dei lavori e di regolamento.
 
 2.1 Gli emendamenti alle proposte di ordine dei lavori e di regolamento vanno presentati via email alla
-Segreteria di Presidenza e non possono essere sub-emendati. Gli emendamenti messi in votazione vengono illustrati dai presentatori con interventi della durata massima di cinque minuti. La Presidenza dà la parola per dichiarazioni di voto, a favore e contro, della durata di tre minuti. Ogni congressista iscritto può presentare un solo emendamento, anche complessivo, sull’ordine dei lavori, ed uno sulle norme regolamentari. Le proposte di regolamento e di ordine dei lavori sono distribuite ai congressisti all’inizio dei lavori e approvate al termine delle relazioni e dei saluti di apertura dei lavori.
+Segreteria di Presidenza e non possono essere sub-emendati. Gli emendamenti messi in votazione vengono illustrati dai presentatori con interventi della durata massima di cinque minuti. La Presidenza dà la parola per dichiarazioni di voto, a favore e contro, della durata di tre minuti. Ogni congressista iscritto può presentare un solo emendamento, anche complessivo, sull'ordine dei lavori, ed uno sulle norme regolamentari. Le proposte di regolamento e di ordine dei lavori sono distribuite ai congressisti all'inizio dei lavori e approvate al termine delle relazioni e dei saluti di apertura dei lavori.
 
 Art. 3 – Mozioni di sfiducia alla Presidenza.
 
@@ -41,9 +47,9 @@ Le mozioni generali, sono presentate da singoli congressisti (non sono ammessi a
 
 Per essere ammesse alla discussione congressuale devono essere VOTATE su LQFB da non meno di 9 congressisti. Ciascun congressista può sottoscrivere una singola mozione generale.
 
-Al momento previsto nell’ordine dei lavori la Segreteria verifica le condizioni di ammissione della mozione: numero minimo di sottoscrittori e sostegno univoco alle singole mozione ESCLUDENDO dal computo coloro che hanno sostenuto più di una mozione generale (si considera voto nullo su ambedue le mozioni votate).
+Al momento previsto nell'ordine dei lavori la Segreteria verifica le condizioni di ammissione della mozione: numero minimo di sottoscrittori e sostegno univoco alle singole mozione ESCLUDENDO dal computo coloro che hanno sostenuto più di una mozione generale (si considera voto nullo su ambedue le mozioni votate).
 
-Le mozioni ammesse sono annunciate all’assemblea e la presidenza concede del tempo ai promotori, se lo vogliono, di comporre assieme le mozioni e ritrovare adeguato supporto per la mozione unificata, se la mozione unificata non troverà adeguato supporto andranno al voto le mozioni contrapposte.
+Le mozioni ammesse sono annunciate all'assemblea e la presidenza concede del tempo ai promotori, se lo vogliono, di comporre assieme le mozioni e ritrovare adeguato supporto per la mozione unificata, se la mozione unificata non troverà adeguato supporto andranno al voto le mozioni contrapposte.
 
 Ciascuna mozione ammessa al voto può essere illustrata dal primo firmatario (presentatore) o da persona da lui indicata, per un limite di 10 min.
 
@@ -57,9 +63,9 @@ Il Presidente dichiarerà il termine della presentazione degli emendamenti con a
 
 Art. 7 - Dibattito sulle mozioni
 
-La Presidenza, all’inizio della fase conclusiva dei lavori, procede alla lettura delle mozioni generali, quindi dà la parola per l’illustrazione delle mozioni generali. Gli interventi dei congressisti possono essere limitati nel numero e nella durata, in relazione alle esigenze poste dall’ordine dei lavori e dall’andamento generale dei lavori.
+La Presidenza, all'inizio della fase conclusiva dei lavori, procede alla lettura delle mozioni generali, quindi dà la parola per l’illustrazione delle mozioni generali. Gli interventi dei congressisti possono essere limitati nel numero e nella durata, in relazione alle esigenze poste dall'ordine dei lavori e dall'andamento generale dei lavori.
 
-Terminato il dibattito sulle mozioni generali, si procede all’esame degli emendamenti relativi. Qualora gli emendamenti alle mozioni non siano accolti dai presentatori dei documenti cui sono rivolti (l’accettazione deve essere espressa dal presentatore), la Presidenza dà la parola per l’illustrazione al presentatore dell’emendamento per due minuti. Su ciascuno emendamento la Presidenza ammette una dichiarazione di voto favorevole ed una contraria, della durata di due minuti ciascuna.
+Terminato il dibattito sulle mozioni generali, si procede all'esame degli emendamenti relativi. Qualora gli emendamenti alle mozioni non siano accolti dai presentatori dei documenti cui sono rivolti (l’accettazione deve essere espressa dal presentatore), la Presidenza dà la parola per l’illustrazione al presentatore dell’emendamento per due minuti. Su ciascuno emendamento la Presidenza ammette una dichiarazione di voto favorevole ed una contraria, della durata di due minuti ciascuna.
 
 Art. 8 - Esecuzione delle votazioni sugli Emendamenti
 
