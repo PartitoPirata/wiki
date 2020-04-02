@@ -10,7 +10,7 @@ Questa Assemblea pre-congressuale ha valore deliberativo per permetterci di veri
 
 La presidenza dell'incontro è affidata a Emmanuele Somma (exedre)
 
-La segreteria sarà costituita da Edoardo Ferri (g5), Eleonora Serrati (zafferanory).
+La segreteria sarà costituita da Edoardo Ferri (g5), Eleonora Serrati (Zafferanory).
 
 In regia Luca Nucifora (nuciluc)
 
@@ -43,7 +43,7 @@ Art. 4 – Iscrizioni a parlare.
 
 Art. 5 - Presentazione delle mozioni generali
 
-Le mozioni generali, sono presentate da singoli congressisti (non sono ammessi autori multipli) con policy “Presentazioni mozioni al Congresso”. Il tempo limite entro cui le mozioni possono essere poste in piattaforma per poter essere votate sono le ore 23 del giorno precedente l'assemblea. Dal momento in cui la mozione viene posta in LQFB si avranno 5 minuti per eventuali modifiche, dopodiché passerà direttamente in votazione.
+Le mozioni generali, sono presentate da singoli congressisti (non sono ammessi autori multipli) con policy “Presentazione mozione”. Il tempo limite entro cui le mozioni possono essere poste in piattaforma per poter essere votate sono le ore 23 del giorno precedente l'assemblea. Dal momento in cui la mozione viene posta in LQFB si avranno 5 minuti per eventuali modifiche, dopodiché passerà direttamente in votazione.
 
 Per essere ammesse alla discussione congressuale devono essere VOTATE su LQFB da non meno di 9 congressisti. Ciascun congressista può sottoscrivere una singola mozione generale.
 
@@ -55,7 +55,7 @@ Ciascuna mozione ammessa al voto può essere illustrata dal primo firmatario (pr
 
 Art. 6 - Presentazione di emendamenti alle Mozioni
 
-Gli emendamenti sono presentati da singoli congressisti (non sono ammessi autori multipli) con policy “Presentazioni di Emendamenti”, indicando nel titolo “Emendamento a Mozione Generale #iXXXX - «descrizione»”. Ciascun congressista può presentare più di una proposta, anche complessiva, di emendamento a ciascuna mozione.
+Gli emendamenti sono presentati da singoli congressisti (non sono ammessi autori multipli) con policy “Presentazione emendamento”, indicando nel titolo “Emendamento a Mozione Generale #iXXXX - «descrizione»”. Ciascun congressista può presentare più di una proposta, anche complessiva, di emendamento a ciascuna mozione.
 
 Devono essere sottoscritte su liquid da non meno del 5 congressisti. Ciascun congressista può sottoscrivere più emendamenti per ogni mozione.
 
@@ -69,14 +69,13 @@ Terminato il dibattito sulle mozioni generali, si procede all'esame degli emenda
 
 Art. 8 - Esecuzione delle votazioni sugli Emendamenti
 
-Alla fine del dibattito sugli emendamenti la segreteria mette in LQFB gli emendamenti non accettati dai presentatori delle mozioni con una iniziativa con policy “Votazione”. Al termine delle votazioni la Presidenza dichiara l’esito del voto sugli emendamenti.
+Alla fine del dibattito sugli emendamenti la segreteria mette in LQFB gli emendamenti non accettati dai presentatori delle mozioni con una iniziativa con policy “Voto mozione o emendamento”. Al termine delle votazioni la Presidenza dichiara l’esito del voto sugli emendamenti.
 
 Art. 9 - Esecuzione della votazione sulle Mozioni
 
 Terminate le votazioni sugli emendamenti, la Presidenza procede alla discussione sulla votazione delle mozioni generali, dando la parola per le dichiarazioni di voto per una durata di cinque minuti ciascuna e ad un numero limitato di iscritti per le dichiarazioni a favore, contro e per l’astensione. Durata e numero delle dichiarazioni di voto sono stabiliti, per ciascuna votazione, dalla Presidenza.
 
-Alla fine della fase di dibattito la segreteria mette in LQFB tutte le Mozioni con policy “Votazione Mozione” dando modo ai congressisti di votare per ciascuna in un tempo limitato. Al termine delle votazioni la Presidenza dichiara l’esito del voto.
+Alla fine della fase di dibattito la segreteria mette in LQFB tutte le Mozioni con policy “Voto mozione o emendamento” dando modo ai congressisti di votare per ciascuna in un tempo limitato. Al termine delle votazioni la Presidenza dichiara l’esito del voto.
 
 # Altre informazioni aggiornate
 Per altre informazioni è possibile vedere la [comunicazione in assemblea](https://agora.partito-pirata.it/initiative/show/6841.html) (solo iscritti)
-
