@@ -61,7 +61,7 @@ La presidenza fissa il termine delle iscrizioni a parlare e lo comunica all'asse
 E' sempre e comunque possibile partecipare al dibattito pubblico utilizzando la chat del canale YouTube ufficiale del Partito Pirata.  
 
 <a name="A.5"></a>**Come ci si registra come partecipante al Congresso?**  
-Su agorà gli account verranno resi inattivi prima del Congresso; un accesso alla piattaforma attiverà nuovamente la propria utenza e corrisponderà alla registrazione al Congresso.  
+~~Su agorà gli account verranno resi inattivi prima del Congresso; un accesso alla piattaforma attiverà nuovamente la propria utenza e corrisponderà alla registrazione al Congresso.~~  
 Pertanto potranno parteciparei Pirati iscritti per l'anno 2020 e attivi in agorà. 
  
 <a name="A.6"></a>**Come vengono calcolati i quorum?**  
