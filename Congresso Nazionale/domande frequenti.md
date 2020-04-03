@@ -62,7 +62,7 @@ E' sempre e comunque possibile partecipare al dibattito pubblico utilizzando la 
 
 <a name="A.5"></a>**Come ci si registra come partecipante al Congresso?**  
 ~~Su agorà gli account verranno resi inattivi prima del Congresso; un accesso alla piattaforma attiverà nuovamente la propria utenza e corrisponderà alla registrazione al Congresso.~~  
-Pertanto potranno parteciparei Pirati iscritti per l'anno 2020 e attivi in agorà. 
+Pertanto potranno partecipare i Pirati iscritti per l'anno 2020 e attivi in agorà. 
  
 <a name="A.6"></a>**Come vengono calcolati i quorum?**  
 La segreteria tiene constantemente sotto controllo il numero dei partecipanti al Congresso e informa la Presidenza a riguardo.  
