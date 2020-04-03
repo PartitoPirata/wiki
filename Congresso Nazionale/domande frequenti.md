@@ -133,7 +133,7 @@ Al termine della riunione ricompone la scaletta degli interventi da inserire nel
 Lo streaming viene trasmesso e registrato su Youtube nel canale ufficiale del Partito Pirata; pertanto basta una connessione dati, un browser web o l'app di Youtube.  
 
 <a name="C.2"></a>**Di quali strumenti mi devo dotare per partecipare all'assemblea?**  
-L'assemblea avviene in una stanza su jitsi del partito: per collegarsi ad essa serve una connessione dati, un browser chromium-based (come Google Chrome, Chromium, Opera, ecc) oppure l'app di Jitsi Meet. La segreteria provvede ad invitare, tramite un servizio di messaggistica, il relatore in una stanza secondaria per fare le verifiche audio-video prima del proprio intervento. In seguito, la segreteria comunica il link della stanza principale e la password temporanea per accedervi.  
+L'assemblea avviene in una stanza su jitsi del partito: per collegarsi ad essa serve una connessione dati, un browser chromium-based (come Google Chrome, Chromium, Opera, ecc) oppure l'app di Jitsi Meet. Si consiglia di fare un test sul sito [https://meet.jit.si](https://meet.jit.si). La segreteria provvede ad invitare, tramite un servizio di messaggistica, il relatore in una stanza secondaria per fare le verifiche audio-video prima del proprio intervento. In seguito, la segreteria comunica il link della stanza principale e la password temporanea per accedervi.  
 
 #####Istruzioni tecniche  
 
