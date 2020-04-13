@@ -10,7 +10,7 @@ Assemblee online del [17 Marzo 2020](Assemblee Pirata/Assemblea Pre-Congressuale
 
 Nessuna assemblea è attualmente convocata.
 
-Il [1° Congresso Nazionale](Congressi/1° Congresso Nazionale) è convocato online da Venerdì 17 a Domenica 19 Aprile.
+Il [1° Congresso Nazionale](Congresso Nazionale/1° Congresso Nazionale) è convocato online da Venerdì 17 a Domenica 19 Aprile.
 
 # Regolamenti e prassi assembleari
 - [Proposta regolamento deliberativo Assemblea online](Assemblee Pirata/Proposta regolamento deliberativo)
