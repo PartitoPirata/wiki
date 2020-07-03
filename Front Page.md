@@ -23,6 +23,6 @@ Puoi vedere le proposte approvate nelle aree "Mozioni politiche" approvate in Li
 
 ------
 
-[Gitit User’s Guide]()...
+[Gitit User’s Guide]()
 
 
