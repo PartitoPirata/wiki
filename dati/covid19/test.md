@@ -2,7 +2,7 @@ format: Markdown ...
 
 dato | valori
 ---- | ----
-         totale-regione |           
+         totale-regione | Vuoto          
      dato: ABR |  totale: 179350
      dato: BAS |  totale: 82315
      dato: CAL |  totale: 256500
