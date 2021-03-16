@@ -1,4 +1,8 @@
-format: Markdown ...
+---
+format: markdown
+title: Aggiornamenti sulle consegne dei vaccini
+toc: no
+...
 
 dato | valori
 ---- | ----
@@ -161,6 +165,6 @@ dato: Vibo Valentia |  totale: 3951
 dato: Vicenza |  totale: 58469
 dato: Viterbo |  totale: 12713
 __pagamenti-totali__ | xxxxxxxx
-dato: Totale_Pagato |  totale: 135352375
+dato: Totale_Pagato |  totale: _EUR_ 135352375
 __pagamenti-totali__ | xxxxxxxx
-dato: Totale_Fornitura |  totale: 356636112
+dato: Totale_Fornitura |  totale: _EUR_ 356636112
