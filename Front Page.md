@@ -21,6 +21,9 @@ Attività online del [Partito in Assemblea](Assemblee Pirata)
 # Gazzetta Pirata
 Puoi vedere le proposte approvate nelle aree "Mozioni politiche" approvate in Liquid Feedback [Gazzetta Pirata](Gazzetta Pirata)
 
+# Dati sul vaccino #
+[Elaborazione degli open-data sul vaccino](dati/covid19/test)
+
 ------
 
 [Gitit User’s Guide]()
