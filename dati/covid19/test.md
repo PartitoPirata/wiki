@@ -2,7 +2,7 @@ format: Markdown ...
 
 dato | valori
 ---- | ----
-totale-regione | xxxxxxxx
+__totale-regione__ | xxxxxxxx
 dato: ABR |  totale: 179350
 dato: BAS |  totale: 82315
 dato: CAL |  totale: 256500
@@ -24,7 +24,7 @@ dato: TOS |  totale: 551450
 dato: UMB |  totale: 120035
 dato: VDA |  totale: 18780
 dato: VEN |  totale: 707950
-nome-area | xxxxxxxx
+__nome-area__ | xxxxxxxx
 dato: Abruzzo |  totale: 179350
 dato: Basilicata |  totale: 82315
 dato: Calabria |  totale: 256500
@@ -46,11 +46,11 @@ dato: Toscana |  totale: 551450
 dato: Umbria |  totale: 120035
 dato: Valle d'Aosta / Vallée d'Aoste |  totale: 18780
 dato: Veneto |  totale: 707950
-per-fornitore | xxxxxxxx
+__per-fornitore__ | xxxxxxxx
 dato: AstraZeneca |  totale: 2196000
 dato: Moderna |  totale: 493000
 dato: Pfizer/BioNTech |  totale: 5908500
-contagi-provincia | xxxxxxxx
+__contagi-provincia__ | xxxxxxxx
 dato: Agrigento |  totale: 6829
 dato: Alessandria |  totale: 22982
 dato: Ancona |  totale: 26421
@@ -160,7 +160,7 @@ dato: Verona |  totale: 68100
 dato: Vibo Valentia |  totale: 3951
 dato: Vicenza |  totale: 58469
 dato: Viterbo |  totale: 12713
-pagamenti-totali | xxxxxxxx
+__pagamenti-totali__ | xxxxxxxx
 dato: Totale_Pagato |  totale: 135352375
-pagamenti-totali | xxxxxxxx
+__pagamenti-totali__ | xxxxxxxx
 dato: Totale_Fornitura |  totale: 356636112
