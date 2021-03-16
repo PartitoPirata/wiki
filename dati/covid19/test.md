@@ -1,7 +1,7 @@
 format: Markdown ...
 
 dato|valori
------------- | -------------
+----| ----
          totale-regione |           
      dato: ABR |  totale: 179350
      dato: BAS |  totale: 82315
