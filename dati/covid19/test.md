@@ -1,3 +1,5 @@
+format: Markdown ...
+
 dato|valori
 ------------ | -------------
          totale-regione |           
