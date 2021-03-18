@@ -3,168 +3,168 @@ format: markdown
 title: Aggiornamenti sulle consegne dei vaccini
 toc: no
 ...
-
-dato | valori
----- | ----
+dato|valori
+------------ | -------------
 __totale-regione__ | xxxxxxxx
-dato: ABR |  totale: 179350
-dato: BAS |  totale: 82315
-dato: CAL |  totale: 256500
-dato: CAM |  totale: 696555
-dato: EMR |  totale: 721810
-dato: FVG |  totale: 199895
-dato: LAZ |  totale: 835420
-dato: LIG |  totale: 269550
-dato: LOM |  totale: 1414040
-dato: MAR |  totale: 214570
-dato: MOL |  totale: 46995
-dato: PAB |  totale: 89115
-dato: PAT |  totale: 79450
-dato: PIE |  totale: 691200
-dato: PUG |  totale: 520325
-dato: SAR |  totale: 220750
-dato: SIC |  totale: 681445
-dato: TOS |  totale: 551450
-dato: UMB |  totale: 120035
-dato: VDA |  totale: 18780
-dato: VEN |  totale: 707950
+dato: ABR |  totale: 202400
+dato: BAS |  totale: 91635
+dato: CAL |  totale: 285460
+dato: CAM |  totale: 771295
+dato: EMR |  totale: 797340
+dato: FVG |  totale: 221275
+dato: LAZ |  totale: 947410
+dato: LIG |  totale: 300920
+dato: LOM |  totale: 1572370
+dato: MAR |  totale: 242030
+dato: MOL |  totale: 52975
+dato: PAB |  totale: 97065
+dato: PAT |  totale: 87600
+dato: PIE |  totale: 766330
+dato: PUG |  totale: 581545
+dato: SAR |  totale: 246870
+dato: SIC |  totale: 754025
+dato: TOS |  totale: 618060
+dato: UMB |  totale: 135435
+dato: VDA |  totale: 20450
+dato: VEN |  totale: 785010
 __nome-area__ | xxxxxxxx
-dato: Abruzzo |  totale: 179350
-dato: Basilicata |  totale: 82315
-dato: Calabria |  totale: 256500
-dato: Campania |  totale: 696555
-dato: Emilia-Romagna |  totale: 721810
-dato: Friuli-Venezia Giulia |  totale: 199895
-dato: Lazio |  totale: 835420
-dato: Liguria |  totale: 269550
-dato: Lombardia |  totale: 1414040
-dato: Marche |  totale: 214570
-dato: Molise |  totale: 46995
-dato: Piemonte |  totale: 691200
-dato: Provincia Autonoma Bolzano / Bozen |  totale: 89115
-dato: Provincia Autonoma Trento |  totale: 79450
-dato: Puglia |  totale: 520325
-dato: Sardegna |  totale: 220750
-dato: Sicilia |  totale: 681445
-dato: Toscana |  totale: 551450
-dato: Umbria |  totale: 120035
-dato: Valle d'Aosta / Vallée d'Aoste |  totale: 18780
-dato: Veneto |  totale: 707950
+dato: Abruzzo |  totale: 202400
+dato: Basilicata |  totale: 91635
+dato: Calabria |  totale: 285460
+dato: Campania |  totale: 771295
+dato: Emilia-Romagna |  totale: 797340
+dato: Friuli-Venezia Giulia |  totale: 221275
+dato: Lazio |  totale: 947410
+dato: Liguria |  totale: 300920
+dato: Lombardia |  totale: 1572370
+dato: Marche |  totale: 242030
+dato: Molise |  totale: 52975
+dato: Piemonte |  totale: 766330
+dato: Provincia Autonoma Bolzano / Bozen |  totale: 97065
+dato: Provincia Autonoma Trento |  totale: 87600
+dato: Puglia |  totale: 581545
+dato: Sardegna |  totale: 246870
+dato: Sicilia |  totale: 754025
+dato: Toscana |  totale: 618060
+dato: Umbria |  totale: 135435
+dato: Valle d'Aosta / Vallée d'Aoste |  totale: 20450
+dato: Veneto |  totale: 785010
 __per-fornitore__ | xxxxxxxx
-dato: AstraZeneca |  totale: 2196000
+dato: AstraZeneca |  totale: 2474000
 dato: Moderna |  totale: 493000
-dato: Pfizer/BioNTech |  totale: 5908500
+dato: Pfizer/BioNTech |  totale: 6610500
 __contagi-provincia__ | xxxxxxxx
-dato: Agrigento |  totale: 6829
-dato: Alessandria |  totale: 22982
-dato: Ancona |  totale: 26421
-dato: Aosta |  totale: 8093
-dato: Arezzo |  totale: 16076
-dato: Ascoli Piceno |  totale: 8169
-dato: Asti |  totale: 13453
-dato: Avellino |  totale: 13759
-dato: Bari |  totale: 65397
-dato: Barletta-Andria-Trani |  totale: 17051
-dato: Belluno |  totale: 19128
-dato: Benevento |  totale: 7678
-dato: Bergamo |  totale: 40190
-dato: Biella |  totale: 8913
-dato: Bologna |  totale: 74620
-dato: Bolzano |  totale: 56528
-dato: Brescia |  totale: 82435
-dato: Brindisi |  totale: 12098
-dato: Cagliari |  totale: 10461
-dato: Caltanissetta |  totale: 7492
-dato: Campobasso |  totale: 8302
-dato: Caserta |  totale: 49004
-dato: Catania |  totale: 43686
-dato: Catanzaro |  totale: 5867
-dato: Chieti |  totale: 15382
-dato: Como |  totale: 48025
-dato: Cosenza |  totale: 12279
-dato: Cremona |  totale: 20608
-dato: Crotone |  totale: 3304
-dato: Cuneo |  totale: 38078
-dato: Enna |  totale: 4553
-dato: Fermo |  totale: 8296
-dato: Ferrara |  totale: 17391
-dato: Firenze |  totale: 47190
-dato: Foggia |  totale: 32089
-dato: Forlì-Cesena |  totale: 26504
-dato: Frosinone |  totale: 24215
-dato: Fuori Regione / Provincia Autonoma |  totale: 31846
-dato: Genova |  totale: 44563
-dato: Gorizia |  totale: 10458
-dato: Grosseto |  totale: 6092
-dato: Imperia |  totale: 10989
-dato: In fase di definizione/aggiornamento |  totale: 24804
-dato: Isernia |  totale: 3300
-dato: L'Aquila |  totale: 14454
-dato: La Spezia |  totale: 11296
-dato: Latina |  totale: 24946
-dato: Lecce |  totale: 14832
-dato: Lecco |  totale: 19698
-dato: Livorno |  totale: 13187
-dato: Lodi |  totale: 14009
-dato: Lucca |  totale: 18084
-dato: Macerata |  totale: 16382
-dato: Mantova |  totale: 26832
-dato: Massa Carrara |  totale: 10623
-dato: Matera |  totale: 5819
-dato: Messina |  totale: 20477
-dato: Milano |  totale: 224058
-dato: Modena |  totale: 51821
-dato: Monza e della Brianza |  totale: 63854
-dato: Napoli |  totale: 180174
-dato: Novara |  totale: 21506
-dato: Nuoro |  totale: 8402
-dato: Oristano |  totale: 3527
-dato: Padova |  totale: 67538
-dato: Palermo |  totale: 47859
-dato: Parma |  totale: 20066
-dato: Pavia |  totale: 35680
-dato: Perugia |  totale: 37105
-dato: Pesaro e Urbino |  totale: 16916
-dato: Pescara |  totale: 16113
-dato: Piacenza |  totale: 20282
-dato: Pisa |  totale: 22292
-dato: Pistoia |  totale: 16672
-dato: Pordenone |  totale: 17949
-dato: Potenza |  totale: 11396
-dato: Prato |  totale: 15090
-dato: Ragusa |  totale: 8878
-dato: Ravenna |  totale: 23334
-dato: Reggio di Calabria |  totale: 15949
-dato: Reggio nell'Emilia |  totale: 37710
-dato: Rieti |  totale: 7906
-dato: Rimini |  totale: 28312
-dato: Roma |  totale: 184289
-dato: Rovigo |  totale: 11627
-dato: Salerno |  totale: 49236
-dato: Sassari |  totale: 13458
-dato: Savona |  totale: 12393
-dato: Siena |  totale: 9474
-dato: Siracusa |  totale: 11248
-dato: Sondrio |  totale: 12026
-dato: Sud Sardegna |  totale: 6784
-dato: Taranto |  totale: 25048
-dato: Teramo |  totale: 13999
-dato: Terni |  totale: 9207
-dato: Torino |  totale: 148190
-dato: Trapani |  totale: 10906
-dato: Trento |  totale: 38084
-dato: Treviso |  totale: 68939
-dato: Trieste |  totale: 16143
-dato: Udine |  totale: 41689
-dato: Varese |  totale: 68568
-dato: Venezia |  totale: 57877
-dato: Verbano-Cusio-Ossola |  totale: 10328
-dato: Vercelli |  totale: 10398
-dato: Verona |  totale: 68100
-dato: Vibo Valentia |  totale: 3951
-dato: Vicenza |  totale: 58469
-dato: Viterbo |  totale: 12713
+dato: Agrigento |  totale: 6939
+dato: Alessandria |  totale: 23245
+dato: Ancona |  totale: 27050
+dato: Aosta |  totale: 8179
+dato: Arezzo |  totale: 16394
+dato: Ascoli Piceno |  totale: 8304
+dato: Asti |  totale: 13649
+dato: Avellino |  totale: 14034
+dato: Bari |  totale: 67015
+dato: Barletta-Andria-Trani |  totale: 17284
+dato: Belluno |  totale: 19301
+dato: Benevento |  totale: 7854
+dato: Bergamo |  totale: 40822
+dato: Biella |  totale: 9013
+dato: Bologna |  totale: 75787
+dato: Bolzano |  totale: 56848
+dato: Brescia |  totale: 84366
+dato: Brindisi |  totale: 12375
+dato: Cagliari |  totale: 10538
+dato: Caltanissetta |  totale: 7572
+dato: Campobasso |  totale: 8414
+dato: Caserta |  totale: 49639
+dato: Catania |  totale: 44054
+dato: Catanzaro |  totale: 5982
+dato: Chieti |  totale: 15515
+dato: Como |  totale: 48671
+dato: Cosenza |  totale: 12518
+dato: Cremona |  totale: 21034
+dato: Crotone |  totale: 3404
+dato: Cuneo |  totale: 38972
+dato: Enna |  totale: 4627
+dato: Fermo |  totale: 8493
+dato: Ferrara |  totale: 17724
+dato: Firenze |  totale: 47827
+dato: Foggia |  totale: 32649
+dato: Forlì-Cesena |  totale: 27109
+dato: Frosinone |  totale: 25202
+dato: Fuori Regione / Provincia Autonoma |  totale: 32294
+dato: Genova |  totale: 44866
+dato: Gorizia |  totale: 10734
+dato: Grosseto |  totale: 6261
+dato: Imperia |  totale: 11109
+dato: In fase di definizione/aggiornamento |  totale: 25263
+dato: Isernia |  totale: 3345
+dato: L'Aquila |  totale: 14658
+dato: La Spezia |  totale: 11370
+dato: Latina |  totale: 25702
+dato: Lecce |  totale: 15270
+dato: Lecco |  totale: 19977
+dato: Livorno |  totale: 13423
+dato: Lodi |  totale: 14169
+dato: Lucca |  totale: 18430
+dato: Macerata |  totale: 16691
+dato: Mantova |  totale: 27440
+dato: Massa Carrara |  totale: 10766
+dato: Matera |  totale: 5919
+dato: Messina |  totale: 20565
+dato: Milano |  totale: 226558
+dato: Modena |  totale: 52387
+dato: Monza e della Brianza |  totale: 64818
+dato: Napoli |  totale: 182721
+dato: Novara |  totale: 21900
+dato: Nuoro |  totale: 8436
+dato: Oristano |  totale: 3536
+dato: Padova |  totale: 68238
+dato: Palermo |  totale: 48436
+dato: Parma |  totale: 20302
+dato: Pavia |  totale: 36259
+dato: Perugia |  totale: 37454
+dato: Pesaro e Urbino |  totale: 17244
+dato: Pescara |  totale: 16392
+dato: Piacenza |  totale: 20398
+dato: Pisa |  totale: 22592
+dato: Pistoia |  totale: 16963
+dato: Pordenone |  totale: 18176
+dato: Potenza |  totale: 11599
+dato: Prato |  totale: 15272
+dato: Ragusa |  totale: 8963
+dato: Ravenna |  totale: 23788
+dato: Reggio di Calabria |  totale: 16054
+dato: Reggio nell'Emilia |  totale: 38166
+dato: Rieti |  totale: 8096
+dato: Rimini |  totale: 28855
+dato: Roma |  totale: 185715
+dato: Rovigo |  totale: 11804
+dato: Salerno |  totale: 50163
+dato: Sassari |  totale: 13528
+dato: Savona |  totale: 12510
+dato: Siena |  totale: 9640
+dato: Siracusa |  totale: 11363
+dato: Sondrio |  totale: 12246
+dato: Sud Sardegna |  totale: 6807
+dato: Taranto |  totale: 25724
+dato: Teramo |  totale: 14136
+dato: Terni |  totale: 9330
+dato: Torino |  totale: 150715
+dato: Trapani |  totale: 10980
+dato: Trento |  totale: 38625
+dato: Treviso |  totale: 69658
+dato: Trieste |  totale: 16546
+dato: Udine |  totale: 42806
+dato: Varese |  totale: 69541
+dato: Venezia |  totale: 58540
+dato: Verbano-Cusio-Ossola |  totale: 10507
+dato: Vercelli |  totale: 10558
+dato: Verona |  totale: 68847
+dato: Vibo Valentia |  totale: 4012
+dato: Vicenza |  totale: 59199
+dato: Viterbo |  totale: 12953
 __pagamenti-totali__ | xxxxxxxx
 dato: Totale_Pagato |  totale: _EUR_ 135352375
 __pagamenti-totali__ | xxxxxxxx
 dato: Totale_Fornitura |  totale: _EUR_ 356636112
+
